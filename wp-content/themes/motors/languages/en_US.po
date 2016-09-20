@@ -1,0 +1,5440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-18 09:25+0500\n"
+"PO-Revision-Date: 2016-05-12 10:13+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: /Users/apple/Desktop\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: motors\n"
+
+#: motors/404.php:7
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: motors/404.php:8 motors/partials/header/header-404.php:7
+#: motors/partials/header/header-coming-soon.php:6
+#: motors/partials/header/header-listing.php:35
+#: motors/partials/header/header-listing.php:43
+#: motors/partials/header/header.php:15 motors/partials/header/header.php:23
+#: motors/partials/service/header-service.php:26
+#: motors/partials/service/header-service.php:34
+msgid "Home"
+msgstr ""
+
+#: motors/404.php:8
+msgid "Home Page"
+msgstr ""
+
+#: motors/author.php:84 motors/inc/stm-ajax.php:157
+#: motors/partials/listing-cars/listing-directory-archive.php:231
+#: motors/partials/single-car-listing/car-gallery.php:240
+msgid "Added to compare"
+msgstr ""
+
+#: motors/author.php:85 motors/inc/stm-ajax.php:147
+#: motors/partials/listing-cars/listing-directory-archive.php:232
+#: motors/partials/single-car-listing/car-gallery.php:241
+msgid "was removed from compare"
+msgstr ""
+
+#: motors/author.php:86
+#: motors/partials/listing-cars/listing-directory-archive.php:233
+#: motors/partials/single-car-listing/car-gallery.php:242
+msgid "You have already added 3 cars"
+msgstr ""
+
+#: motors/comments.php:28
+msgid "Comment navigation"
+msgstr ""
+
+#: motors/comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: motors/comments.php:34
+msgid "Newer Comments"
+msgstr ""
+
+#: motors/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: motors/index.php:90
+msgid "No Results"
+msgstr ""
+
+#: motors/page.php:36 motors/partials/blog/content.php:12
+#: motors/partials/blog/content.php:87
+msgid "Pages:"
+msgstr ""
+
+#: motors/page.php:40 motors/partials/blog/content.php:16
+#: motors/partials/blog/content.php:91
+msgid "Page"
+msgstr ""
+
+#: motors/inc/custom.php:42
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: motors/inc/custom.php:45
+msgid ""
+"<span class=\"comment-divider\">/</span><i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: motors/inc/custom.php:48
+msgid ""
+"<span class=\"comment-divider\">/</span><i class=\"fa fa-pencil-square-o\"></"
+"i> Edit"
+msgstr ""
+
+#: motors/inc/custom.php:53
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: motors/inc/custom.php:81 motors/partials/modals/get-car-price.php:14
+#: motors/partials/modals/test-drive.php:14
+#: motors/woocommerce/single-product-reviews.php:69
+msgid "Name"
+msgstr ""
+
+#: motors/inc/custom.php:86
+msgid "E-mail"
+msgstr ""
+
+#: motors/inc/custom.php:91
+msgid "Website"
+msgstr ""
+
+#: motors/inc/custom.php:322
+msgid "Motors Theme Default"
+msgstr ""
+
+#: motors/inc/custom.php:700
+msgid "mi"
+msgstr ""
+
+#: motors/inc/custom.php:703
+msgid "km"
+msgstr ""
+
+#: motors/inc/custom.php:904 motors/vc_templates/stm_add_a_car.php:210
+#: motors/vc_templates/stm_add_a_car.php:541
+msgid "Enter"
+msgstr ""
+
+#: motors/inc/custom.php:927
+msgid "or"
+msgstr ""
+
+#: motors/inc/custom.php:1377
+#: motors/partials/single-car-listing/car-data.php:23
+#: motors/partials/single-car-listing/car-data.php:32
+msgid "Registered"
+msgstr ""
+
+#: motors/inc/custom.php:1394 motors/vc_templates/stm_sell_a_car.php:167
+msgid "VIN"
+msgstr ""
+
+#: motors/inc/custom.php:1412
+#: motors/partials/single-car-listing/car-data.php:42
+#: motors/partials/single-car-listing/car-data.php:52
+msgid "History"
+msgstr ""
+
+#: motors/inc/custom.php:1418
+msgid "Vehicle history"
+msgstr ""
+
+#: motors/inc/custom.php:1432
+msgid "Insert link"
+msgstr ""
+
+#: motors/inc/custom.php:1433 motors/inc/listing-filter.php:955
+#: motors/vc_templates/stm_add_a_car.php:349
+#: motors/vc_templates/stm_add_a_car.php:767
+msgid "Apply"
+msgstr ""
+
+#: motors/inc/custom.php:1483 motors/partials/user/dealer-public-profile.php:56
+#: motors/partials/user/private/become-dealer.php:66
+msgid "Location"
+msgstr ""
+
+#: motors/inc/custom.php:1567 motors/inc/customizer/registration.php:934
+#: motors/partials/user/dealer-single-review.php:10
+#: motors/partials/user/dealer-write-review.php:41
+msgid "Customer Service"
+msgstr ""
+
+#: motors/inc/custom.php:1569 motors/inc/customizer/registration.php:939
+#: motors/partials/user/dealer-single-review.php:11
+#: motors/partials/user/dealer-write-review.php:42
+msgid "Buying Process"
+msgstr ""
+
+#: motors/inc/custom.php:1571 motors/inc/customizer/registration.php:944
+#: motors/partials/user/dealer-single-review.php:12
+#: motors/partials/user/dealer-write-review.php:43
+msgid "Overall Experience"
+msgstr ""
+
+#: motors/inc/custom.php:2006
+msgid "New Payment received"
+msgstr ""
+
+#: motors/inc/custom.php:2007
+msgid "User paid for submission. User ID:"
+msgstr ""
+
+#: motors/inc/listing-filter.php:175
+msgid "Less than"
+msgstr ""
+
+#: motors/inc/listing-filter.php:189
+msgid "More than"
+msgstr ""
+
+#: motors/inc/listing-filter.php:429 motors/inc/visual_composer.php:420
+#: motors/inc/visual_composer.php:426 motors/inc/visual_composer.php:433
+#: motors/inc/visual_composer.php:447 motors/inc/visual_composer.php:454
+#: motors/inc/visual_composer.php:461 motors/inc/visual_composer.php:467
+#: motors/inc/visual_composer.php:474 motors/inc/visual_composer.php:480
+#: motors/inc/visual_composer.php:487 motors/inc/visual_composer.php:494
+#: motors/inc/visual_composer.php:501
+msgid "Search Options"
+msgstr ""
+
+#: motors/inc/listing-filter.php:480
+#: motors/partials/listing-cars/listing-directory-archive.php:209
+#: motors/partials/listing-cars/listing-directory-archive.php:219
+#: motors/vc_templates/stm_listing_search.php:75
+msgid "Max"
+msgstr ""
+
+#: motors/inc/listing-filter.php:508 motors/inc/listing-filter.php:513
+#: motors/inc/listing-filter.php:610 motors/inc/listing-filter.php:670
+#: motors/partials/top-bar.php:136 motors/partials/top-bar.php:142
+#: motors/partials/top-bar.php:147 motors/partials/header/header.php:93
+#: motors/partials/header/header.php:95 motors/partials/header/header.php:99
+#: motors/partials/header/header.php:101 motors/partials/header/header.php:111
+#: motors/partials/header/header.php:113 motors/partials/header/header.php:119
+#: motors/partials/header/header.php:121 motors/partials/header/header.php:139
+#: motors/partials/header/header.php:141 motors/partials/header/header.php:158
+#: motors/partials/single-car/car-price.php:50
+#: motors/partials/single-car/car-price.php:66
+#: motors/partials/single-car/car-price.php:81
+#: motors/partials/single-car/car-price.php:95
+#: motors/partials/single-car/car-price.php:110
+#: motors/vc_templates/stm_single_car_price.php:54
+#: motors/vc_templates/stm_single_car_price.php:70
+#: motors/vc_templates/stm_single_car_price.php:85
+#: motors/vc_templates/stm_single_car_price.php:99
+#: motors/vc_templates/stm_single_car_price.php:114
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: motors/inc/listing-filter.php:562
+msgid "Show cars"
+msgstr ""
+
+#: motors/inc/listing-filter.php:565
+msgid "Reset all"
+msgstr ""
+
+#: motors/inc/listing-filter.php:662
+msgid "Popular"
+msgstr ""
+
+#: motors/inc/listing-filter.php:664 motors/vc_templates/stm_dealer_list.php:86
+msgid "Keyword"
+msgstr ""
+
+#: motors/inc/listing-filter.php:715 motors/inc/customizer/registration.php:754
+msgid "Cars for sale"
+msgstr ""
+
+#: motors/inc/listing-filter.php:716 motors/inc/customizer/registration.php:759
+msgid " for sale"
+msgstr ""
+
+#: motors/inc/listing-filter.php:786 motors/inc/listing-filter.php:805
+msgid "Select Price"
+msgstr ""
+
+#: motors/inc/setup.php:42
+msgid "Top primary menu"
+msgstr ""
+
+#: motors/inc/setup.php:43
+msgid "Top bar menu"
+msgstr ""
+
+#: motors/inc/setup.php:44
+msgid "Bottom menu"
+msgstr ""
+
+#: motors/inc/setup.php:48
+msgid "Primary Sidebar"
+msgstr ""
+
+#: motors/inc/setup.php:50
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: motors/inc/setup.php:58 motors/inc/customizer/registration.php:74
+msgid "Footer"
+msgstr ""
+
+#: motors/inc/setup.php:60
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: motors/inc/setup.php:69 motors/inc/customizer/registration.php:1009
+#: motors/partials/title_box.php:42
+msgid "Shop"
+msgstr ""
+
+#: motors/inc/setup.php:71
+msgid "Woocommerce pages sidebar"
+msgstr ""
+
+#: motors/inc/setup.php:81
+msgid "STM Listing Car Sidebar"
+msgstr ""
+
+#: motors/inc/setup.php:83
+msgid "Default sidebar for Single Car Page (Listing layout)"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:64
+#: motors/partials/listing-cars/listing-archive.php:117
+#: motors/partials/listing-cars/listing-directory-archive.php:154
+msgid "Sorry, No results"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:133
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:75
+#: motors/partials/listing-cars/listing-grid-directory-loop-4.php:82
+#: motors/partials/listing-cars/listing-grid-directory-loop.php:81
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:84
+#: motors/partials/listing-cars/listing-list-directory-loop.php:84
+#: motors/partials/listing-cars/listing-list-loop-actions.php:70
+#: motors/partials/single-car/car-actions.php:63
+#: motors/vc_templates/stm_single_car_actions.php:69
+msgid "Add to compare"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:134
+msgid "In compare list"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:135 motors/partials/compare.php:73
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:65
+#: motors/partials/listing-cars/listing-list-loop-actions.php:60
+#: motors/partials/single-car/car-actions.php:53
+#: motors/vc_templates/stm_compare_cars.php:62
+#: motors/vc_templates/stm_single_car_actions.php:59
+msgid "Remove from list"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:160
+msgid "You have already added"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:160
+msgid " cars"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:164
+msgid "has already added"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:214
+msgid "New request for test drive"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:222 motors/inc/stm-ajax.php:331
+msgid "Your request was sent"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:229 motors/inc/stm-ajax.php:338
+msgid "Request for a test drive"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:230 motors/inc/stm-ajax.php:339
+msgid "Name - "
+msgstr ""
+
+#: motors/inc/stm-ajax.php:231 motors/inc/stm-ajax.php:340
+msgid "Email - "
+msgstr ""
+
+#: motors/inc/stm-ajax.php:232 motors/inc/stm-ajax.php:341
+msgid "Phone - "
+msgstr ""
+
+#: motors/inc/stm-ajax.php:233 motors/inc/stm-ajax.php:342
+msgid "Date - "
+msgstr ""
+
+#: motors/inc/stm-ajax.php:239 motors/inc/stm-ajax.php:348
+msgid "Please fill all fields"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:247
+msgid "Please prove you're not a robot"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:409
+msgid "Wrong Username or Password"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:413
+msgid "Successfully logged in. Redirecting..."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:422 motors/inc/stm-ajax.php:565
+#: motors/inc/stm-ajax.php:1451
+msgid "Please fill required fields"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:476
+msgid "Please, enter captcha"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:547
+msgid ""
+"Congratulations! You have been successfully registered. Redirecting to your "
+"account profile page."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:560
+msgid "Please, accept Membership Agreement"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:563 motors/inc/stm-ajax.php:660
+#: motors/inc/stm-ajax.php:1152
+#: motors/partials/user/private/become-dealer.php:78
+#: motors/partials/user/private/dealer-settings.php:321
+#: motors/partials/user/private/user-settings.php:223
+msgid "Site is on demo mode"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:698 motors/inc/stm-ajax.php:803
+msgid "Sorry, you can upload only"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:698 motors/inc/stm-ajax.php:803
+msgid "images per add"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:711
+msgid "Sorry, image is too large"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:717
+msgid "Sorry, image has invalid format"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:779
+msgid "Car updated, redirecting to your account profile"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:781 motors/inc/stm-ajax.php:846
+msgid "Car added, redirecting to your account profile"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:792
+msgid ""
+"You are trying to add car to another car user, or your session has expired, "
+"please sign in first"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:796
+msgid "Some error occurred, try again later"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:987 motors/inc/stm-ajax.php:1449
+msgid "Site is on demo mode."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1000
+msgid "Please, enter review title."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1005
+msgid "Do not cheat!"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1014
+msgid "Please, enter review text."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1019 motors/inc/stm-ajax.php:1023
+msgid "Please, check you are not a dealer."
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1035
+msgid "Please add rating"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1048
+msgid "You are not logged in"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1063
+msgid "Do not cheat"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1124 motors/inc/stm_single_dealer.php:140
+#: motors/partials/single-car-listing/car-data.php:33
+#: motors/partials/single-car-listing/car-data.php:53
+#: motors/partials/single-car-listing/car-data.php:72
+#: motors/partials/single-car-listing/car-data.php:135
+#: motors/woocommerce/order/order-details-customer.php:60
+#: motors/woocommerce/order/order-details-customer.php:71
+msgid "N/A"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1138
+msgid "Please, log in"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1178
+msgid "Enter required fields"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1184
+msgid "You do not have available posts"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1250
+msgid "Please add car price"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1273 motors/vc_templates/stm_add_a_car.php:782
+#: motors/vc_templates/stm_add_a_car.php:787
+msgid "Seller Note"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1374
+msgid "Car Updated, uploading photos"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1376
+msgid "Car Added, uploading photos"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1426
+msgid "User not found"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1437
+msgid "Password recovery"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1438
+msgid "Please, follow the link, to set new password:"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1444
+msgid "Instructions send on your email"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1491
+msgid "Report review"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1492
+msgid "Review with id"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1492
+msgid "was reported"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1493
+msgid "Review content"
+msgstr ""
+
+#: motors/inc/stm-ajax.php:1499
+msgid "Reported"
+msgstr ""
+
+#: motors/inc/stm_single_dealer.php:5
+msgid "Cars in stock"
+msgstr ""
+
+#: motors/inc/stm_single_dealer.php:7
+msgid "Car in stock"
+msgstr ""
+
+#: motors/inc/stm_single_dealer.php:81
+#: motors/partials/single-car-listing/car-dealer.php:41
+#: motors/partials/user/dealer-reviews.php:78
+#: motors/vc_templates/stm_dealer_list.php:23
+msgid "Reviews"
+msgstr ""
+
+#: motors/inc/stm_single_dealer.php:122
+msgid "See map"
+msgstr ""
+
+#: motors/inc/stm_single_dealer.php:131
+msgid "From"
+msgstr ""
+
+#: motors/inc/user-extra.php:10
+msgid "STM User/Dealer additional fields"
+msgstr ""
+
+#: motors/inc/user-extra.php:15
+msgid "Show email public"
+msgstr ""
+
+#: motors/inc/user-extra.php:21
+msgid "Only \"show\" means that user mail is visible to public"
+msgstr ""
+
+#: motors/inc/user-extra.php:26 motors/partials/modals/get-car-price.php:28
+#: motors/partials/modals/test-drive.php:28
+#: motors/partials/user/private/dealer-settings.php:420
+#: motors/partials/user/private/user-settings.php:300
+#: motors/vc_templates/stm_sell_a_car.php:54
+msgid "Phone"
+msgstr ""
+
+#: motors/inc/user-extra.php:32
+msgid "User phone"
+msgstr ""
+
+#: motors/inc/user-extra.php:37
+msgid "User Avatar"
+msgstr ""
+
+#: motors/inc/user-extra.php:46
+msgid "User avatar(stores URL and path to image)"
+msgstr ""
+
+#: motors/inc/user-extra.php:51
+msgid "STM User/Dealer additional fields (socials)"
+msgstr ""
+
+#: motors/inc/user-extra.php:56 motors/inc/customizer/registration.php:31
+#: motors/partials/user/private/dealer-settings.php:532
+#: motors/partials/user/private/user-settings.php:352
+msgid "Facebook"
+msgstr ""
+
+#: motors/inc/user-extra.php:66 motors/inc/customizer/registration.php:32
+#: motors/partials/user/private/dealer-settings.php:541
+#: motors/partials/user/private/user-settings.php:361
+msgid "Twitter"
+msgstr ""
+
+#: motors/inc/user-extra.php:76
+#: motors/partials/user/private/dealer-settings.php:552
+#: motors/partials/user/private/user-settings.php:372
+msgid "Linked In"
+msgstr ""
+
+#: motors/inc/user-extra.php:86 motors/inc/customizer/registration.php:49
+#: motors/partials/user/private/dealer-settings.php:561
+#: motors/partials/user/private/user-settings.php:381
+msgid "Youtube"
+msgstr ""
+
+#: motors/inc/user-extra.php:96
+msgid "User favorite car ids"
+msgstr ""
+
+#: motors/inc/user-extra.php:108
+msgid "Dealer Settings"
+msgstr ""
+
+#: motors/inc/user-extra.php:109
+msgid ""
+"This settings will only be filled by dealers, and shown only on dealer page."
+msgstr ""
+
+#: motors/inc/user-extra.php:113
+msgid "Message to pending user"
+msgstr ""
+
+#: motors/inc/user-extra.php:120
+msgid ""
+"In case a user has entered incorrect details in Dealer submission, you can "
+"reject the request and add a notice."
+msgstr ""
+
+#: motors/inc/user-extra.php:126
+#: motors/partials/user/private/become-dealer.php:64
+msgid "Company name"
+msgstr ""
+
+#: motors/inc/user-extra.php:136
+msgid "Website URL"
+msgstr ""
+
+#: motors/inc/user-extra.php:146
+msgid "License"
+msgstr ""
+
+#: motors/inc/user-extra.php:156
+msgid "Dealer Logo"
+msgstr ""
+
+#: motors/inc/user-extra.php:165
+msgid "Dealer logo(stores URL and path to image)"
+msgstr ""
+
+#: motors/inc/user-extra.php:170
+msgid "Dealer Image"
+msgstr ""
+
+#: motors/inc/user-extra.php:179
+msgid "Dealer image(stores URL and path to image)"
+msgstr ""
+
+#: motors/inc/user-extra.php:184
+msgid "Dealer Location"
+msgstr ""
+
+#: motors/inc/user-extra.php:190
+msgid "Dealer location address"
+msgstr ""
+
+#: motors/inc/user-extra.php:194
+msgid "Dealer location latitude"
+msgstr ""
+
+#: motors/inc/user-extra.php:198
+msgid "Dealer location longtitude"
+msgstr ""
+
+#: motors/inc/user-extra.php:203
+#: motors/partials/user/dealer-public-profile.php:74
+#: motors/partials/user/private/become-dealer.php:292
+#: motors/partials/user/private/dealer-settings.php:480
+msgid "Sales Hours"
+msgstr ""
+
+#: motors/inc/user-extra.php:213
+msgid "Seller Notes"
+msgstr ""
+
+#: motors/inc/user-extra.php:221
+msgid "Payment status"
+msgstr ""
+
+#: motors/inc/user-filter.php:34
+msgid "Displaying Local Car Dealerships"
+msgstr ""
+
+#: motors/inc/user-filter.php:196
+msgid "Displaying Dealerships near"
+msgstr ""
+
+#: motors/inc/user-filter.php:214 motors/inc/user-filter.php:216
+msgid "Displaying"
+msgstr ""
+
+#: motors/inc/user-filter.php:214
+msgid "Dealerships near"
+msgstr ""
+
+#: motors/inc/user-filter.php:216
+msgid "Dealerships"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:7 motors/partials/user/user-dropdown.php:65
+#: motors/partials/user/private/mobile/user.php:25
+#: motors/vc_templates/stm_login_register.php:60
+msgid "Sign Up"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:8
+msgid "Already Registered? Members"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:9
+msgid "Login Here"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:26
+#: motors/vc_templates/stm_login_register.php:66
+msgid "First Name"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:27
+#: motors/vc_templates/stm_login_register.php:67
+msgid "Enter First name"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:30
+#: motors/vc_templates/stm_login_register.php:70
+msgid "Last Name"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:31
+#: motors/vc_templates/stm_login_register.php:71
+msgid "Enter Last name"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:37
+#: motors/inc/customizer/registration.php:535
+#: motors/vc_templates/stm_login_register.php:77
+#: motors/vc_templates/stm_sell_a_car.php:324
+msgid "Phone number"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:38
+#: motors/partials/user/private/dealer-settings.php:421
+#: motors/partials/user/private/user-settings.php:301
+#: motors/vc_templates/stm_login_register.php:78
+msgid "Enter Phone"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:41
+#: motors/vc_templates/stm_login_register.php:81
+msgid "Email *"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:42
+#: motors/partials/user/private/dealer-settings.php:427
+#: motors/partials/user/private/user-settings.php:307
+#: motors/vc_templates/stm_login_register.php:82
+msgid "Enter E-mail"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:48
+#: motors/vc_templates/stm_login_register.php:88
+msgid "Login *"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:49
+#: motors/vc_templates/stm_login_register.php:89
+msgid "Enter Login"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:52
+#: motors/vc_templates/stm_login_register.php:92
+msgid "Password *"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:55
+#: motors/vc_templates/stm_login_register.php:95
+msgid "Enter Password"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:64
+#: motors/vc_templates/stm_login_register.php:104
+msgid "I accept the terms of the"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:65
+#: motors/vc_templates/stm_login_register.php:105
+msgid "Membership Agreement"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:71
+#: motors/vc_templates/stm_login_register.php:122
+msgid "Sign up now!"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:140 motors/inc/user-vc-register.php:172
+#: motors/partials/user/private/dealer.php:104
+#: motors/partials/user/private/user.php:119
+#: motors/partials/user/private/mobile/dealer-profile.php:100
+#: motors/partials/user/private/mobile/user-profile.php:116
+msgid "Show my Public Profile"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:144 motors/inc/user-vc-register.php:176
+#: motors/partials/top-bar.php:49 motors/partials/top-bar.php:51
+#: motors/partials/top-bar.php:77 motors/partials/top-bar.php:79
+msgid "Log out"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:145
+msgid "to choose a different account"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:165
+#: motors/partials/single-car-listing/car-dealer.php:87
+#: motors/partials/user/user-public-profile.php:36
+#: motors/partials/user/private/user.php:56
+#: motors/partials/user/private/mobile/user-profile.php:49
+msgid "Private Seller"
+msgstr ""
+
+#: motors/inc/user-vc-register.php:177
+msgid "to choose a different accout"
+msgstr ""
+
+#: motors/inc/visual_composer.php:23
+msgid "Enable STM Fullwidth"
+msgstr ""
+
+#: motors/inc/visual_composer.php:26 motors/inc/visual_composer.php:34
+#: motors/inc/visual_composer.php:57 motors/inc/visual_composer.php:66
+#: motors/inc/visual_composer.php:75 motors/inc/visual_composer.php:1762
+#: motors/inc/visual_composer.php:1861 motors/inc/visual_composer.php:1878
+#: motors/inc/visual_composer.php:1909 motors/inc/visual_composer.php:1960
+#: motors/partials/user/dealer-reviews.php:53
+#: motors/partials/user/dealer-single-review.php:110
+#: motors/partials/user/dealer-write-review.php:64
+#: motors/vc_templates/stm_sell_a_car.php:282
+#: motors/vc_templates/stm_sell_a_car.php:283
+msgid "Yes"
+msgstr ""
+
+#: motors/inc/visual_composer.php:31
+msgid "Enable STM Fullwidth without js"
+msgstr ""
+
+#: motors/inc/visual_composer.php:39
+msgid "Blackout Opacity"
+msgstr ""
+
+#: motors/inc/visual_composer.php:42
+msgid "0%"
+msgstr ""
+
+#: motors/inc/visual_composer.php:43
+msgid "20%"
+msgstr ""
+
+#: motors/inc/visual_composer.php:44
+msgid "40%"
+msgstr ""
+
+#: motors/inc/visual_composer.php:45
+msgid "60%"
+msgstr ""
+
+#: motors/inc/visual_composer.php:46
+msgid "80%"
+msgstr ""
+
+#: motors/inc/visual_composer.php:54
+msgid "Enable STM theme fancybox on click"
+msgstr ""
+
+#: motors/inc/visual_composer.php:63
+msgid "Style 2"
+msgstr ""
+
+#: motors/inc/visual_composer.php:72
+msgid "Service Style"
+msgstr ""
+
+#: motors/inc/visual_composer.php:139
+#: motors/vc_templates/stm_dealer_list.php:24
+#: motors/woocommerce/myaccount/my-orders.php:26
+#: motors/woocommerce/myaccount/my-orders.php:52
+#: motors/woocommerce/myaccount/my-orders.php:71
+msgid "Date"
+msgstr ""
+
+#: motors/inc/visual_composer.php:140
+msgid "ID"
+msgstr ""
+
+#: motors/inc/visual_composer.php:141
+msgid "Author"
+msgstr ""
+
+#: motors/inc/visual_composer.php:142 motors/inc/visual_composer.php:217
+#: motors/inc/visual_composer.php:350 motors/inc/visual_composer.php:716
+#: motors/inc/visual_composer.php:1070 motors/inc/visual_composer.php:1334
+#: motors/inc/visual_composer.php:1571 motors/inc/visual_composer.php:1606
+#: motors/inc/visual_composer.php:1662 motors/inc/visual_composer.php:1847
+#: motors/inc/visual_composer.php:2044 motors/inc/visual_composer.php:2109
+#: motors/inc/visual_composer.php:2144 motors/inc/visual_composer.php:2195
+#: motors/inc/visual_composer.php:2245 motors/inc/visual_composer.php:2260
+#: motors/partials/user/dealer-write-review.php:23
+msgid "Title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:143
+msgid "Modified"
+msgstr ""
+
+#: motors/inc/visual_composer.php:144
+msgid "Random"
+msgstr ""
+
+#: motors/inc/visual_composer.php:145
+msgid "Comment count"
+msgstr ""
+
+#: motors/inc/visual_composer.php:146
+msgid "Menu order"
+msgstr ""
+
+#: motors/inc/visual_composer.php:151
+msgid "Descending"
+msgstr ""
+
+#: motors/inc/visual_composer.php:152
+msgid "Ascending"
+msgstr ""
+
+#: motors/inc/visual_composer.php:156
+msgid "STM Auto Loan Calculator"
+msgstr ""
+
+#: motors/inc/visual_composer.php:159 motors/inc/visual_composer.php:212
+#: motors/inc/visual_composer.php:313 motors/inc/visual_composer.php:345
+#: motors/inc/visual_composer.php:377 motors/inc/visual_composer.php:520
+#: motors/inc/visual_composer.php:569 motors/inc/visual_composer.php:585
+#: motors/inc/visual_composer.php:621 motors/inc/visual_composer.php:663
+#: motors/inc/visual_composer.php:689 motors/inc/visual_composer.php:712
+#: motors/inc/visual_composer.php:745 motors/inc/visual_composer.php:767
+#: motors/inc/visual_composer.php:939 motors/inc/visual_composer.php:954
+#: motors/inc/visual_composer.php:1017 motors/inc/visual_composer.php:1066
+#: motors/inc/visual_composer.php:1168 motors/inc/visual_composer.php:1330
+#: motors/inc/visual_composer.php:1383 motors/inc/visual_composer.php:1399
+#: motors/inc/visual_composer.php:1415 motors/inc/visual_composer.php:1461
+#: motors/inc/visual_composer.php:1536
+msgid "STM"
+msgstr ""
+
+#: motors/inc/visual_composer.php:163
+msgid "Calculator Heading"
+msgstr ""
+
+#: motors/inc/visual_composer.php:168
+msgid "Currency symbol"
+msgstr ""
+
+#: motors/inc/visual_composer.php:173
+msgid "Labels font size"
+msgstr ""
+
+#: motors/inc/visual_composer.php:178
+msgid "Wide version"
+msgstr ""
+
+#: motors/inc/visual_composer.php:183 motors/inc/visual_composer.php:301
+#: motors/inc/visual_composer.php:333 motors/inc/visual_composer.php:365
+#: motors/inc/visual_composer.php:508 motors/inc/visual_composer.php:557
+#: motors/inc/visual_composer.php:573 motors/inc/visual_composer.php:734
+#: motors/inc/visual_composer.php:821 motors/inc/visual_composer.php:838
+#: motors/inc/visual_composer.php:853 motors/inc/visual_composer.php:868
+#: motors/inc/visual_composer.php:883 motors/inc/visual_composer.php:898
+#: motors/inc/visual_composer.php:913 motors/inc/visual_composer.php:928
+#: motors/inc/visual_composer.php:943 motors/inc/visual_composer.php:1006
+#: motors/inc/visual_composer.php:1055 motors/inc/visual_composer.php:1110
+#: motors/inc/visual_composer.php:1178 motors/inc/visual_composer.php:1195
+#: motors/inc/visual_composer.php:1209 motors/inc/visual_composer.php:1223
+#: motors/inc/visual_composer.php:1237 motors/inc/visual_composer.php:1243
+#: motors/inc/visual_composer.php:1258 motors/inc/visual_composer.php:1273
+#: motors/inc/visual_composer.php:1288 motors/inc/visual_composer.php:1308
+#: motors/inc/visual_composer.php:1345 motors/inc/visual_composer.php:1371
+#: motors/inc/visual_composer.php:1387 motors/inc/visual_composer.php:1403
+#: motors/inc/visual_composer.php:1450 motors/inc/visual_composer.php:1524
+#: motors/inc/visual_composer.php:1540 motors/inc/visual_composer.php:1581
+#: motors/inc/visual_composer.php:1646 motors/inc/visual_composer.php:1679
+#: motors/inc/visual_composer.php:1706 motors/inc/visual_composer.php:1737
+#: motors/inc/visual_composer.php:1773 motors/inc/visual_composer.php:1832
+#: motors/inc/visual_composer.php:1916 motors/inc/visual_composer.php:1939
+#: motors/inc/visual_composer.php:2029 motors/inc/visual_composer.php:2049
+#: motors/inc/visual_composer.php:2064 motors/inc/visual_composer.php:2079
+#: motors/inc/visual_composer.php:2094 motors/inc/visual_composer.php:2114
+#: motors/inc/visual_composer.php:2129 motors/inc/visual_composer.php:2155
+#: motors/inc/visual_composer.php:2170 motors/inc/visual_composer.php:2333
+#: motors/inc/visual_composer.php:2355 motors/inc/visual_composer.php:2371
+#: motors/inc/visual_composer.php:2466 motors/inc/visual_composer.php:2494
+#: motors/inc/visual_composer.php:2547
+msgid "Css"
+msgstr ""
+
+#: motors/inc/visual_composer.php:185 motors/inc/visual_composer.php:303
+#: motors/inc/visual_composer.php:335 motors/inc/visual_composer.php:367
+#: motors/inc/visual_composer.php:510 motors/inc/visual_composer.php:559
+#: motors/inc/visual_composer.php:575 motors/inc/visual_composer.php:736
+#: motors/inc/visual_composer.php:823 motors/inc/visual_composer.php:840
+#: motors/inc/visual_composer.php:855 motors/inc/visual_composer.php:870
+#: motors/inc/visual_composer.php:885 motors/inc/visual_composer.php:900
+#: motors/inc/visual_composer.php:915 motors/inc/visual_composer.php:930
+#: motors/inc/visual_composer.php:945 motors/inc/visual_composer.php:1008
+#: motors/inc/visual_composer.php:1057 motors/inc/visual_composer.php:1112
+#: motors/inc/visual_composer.php:1180 motors/inc/visual_composer.php:1197
+#: motors/inc/visual_composer.php:1211 motors/inc/visual_composer.php:1225
+#: motors/inc/visual_composer.php:1245 motors/inc/visual_composer.php:1260
+#: motors/inc/visual_composer.php:1275 motors/inc/visual_composer.php:1290
+#: motors/inc/visual_composer.php:1310 motors/inc/visual_composer.php:1347
+#: motors/inc/visual_composer.php:1373 motors/inc/visual_composer.php:1389
+#: motors/inc/visual_composer.php:1405 motors/inc/visual_composer.php:1452
+#: motors/inc/visual_composer.php:1526 motors/inc/visual_composer.php:1542
+#: motors/inc/visual_composer.php:1583 motors/inc/visual_composer.php:1648
+#: motors/inc/visual_composer.php:1681 motors/inc/visual_composer.php:1708
+#: motors/inc/visual_composer.php:1739 motors/inc/visual_composer.php:1775
+#: motors/inc/visual_composer.php:1834 motors/inc/visual_composer.php:1918
+#: motors/inc/visual_composer.php:1941 motors/inc/visual_composer.php:2031
+#: motors/inc/visual_composer.php:2051 motors/inc/visual_composer.php:2066
+#: motors/inc/visual_composer.php:2081 motors/inc/visual_composer.php:2096
+#: motors/inc/visual_composer.php:2116 motors/inc/visual_composer.php:2131
+#: motors/inc/visual_composer.php:2157 motors/inc/visual_composer.php:2172
+#: motors/inc/visual_composer.php:2335 motors/inc/visual_composer.php:2357
+#: motors/inc/visual_composer.php:2373 motors/inc/visual_composer.php:2468
+#: motors/inc/visual_composer.php:2496 motors/inc/visual_composer.php:2549
+msgid "Design options"
+msgstr ""
+
+#: motors/inc/visual_composer.php:209
+msgid "STM Icon Box"
+msgstr ""
+
+#: motors/inc/visual_composer.php:222
+msgid "Title Holder"
+msgstr ""
+
+#: motors/inc/visual_composer.php:236 motors/inc/visual_composer.php:958
+#: motors/inc/visual_composer.php:1419 motors/inc/visual_composer.php:1465
+#: motors/inc/visual_composer.php:1732 motors/inc/visual_composer.php:2319
+msgid "Link"
+msgstr ""
+
+#: motors/inc/visual_composer.php:241 motors/inc/visual_composer.php:1440
+#: motors/inc/visual_composer.php:1601
+msgid "Box background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:246 motors/inc/visual_composer.php:1445
+msgid "Box text color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:251
+msgid "Box text color on hover"
+msgstr ""
+
+#: motors/inc/visual_composer.php:256
+msgid "Icon background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:258
+msgid "Don't forget to add paddings in Icon design options tab"
+msgstr ""
+
+#: motors/inc/visual_composer.php:262
+msgid "Show bottom triangle"
+msgstr ""
+
+#: motors/inc/visual_composer.php:267 motors/inc/visual_composer.php:728
+#: motors/inc/visual_composer.php:1434 motors/inc/visual_composer.php:1556
+#: motors/inc/visual_composer.php:2510
+msgid "Icon"
+msgstr ""
+
+#: motors/inc/visual_composer.php:273 motors/inc/visual_composer.php:1561
+msgid "Icon color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:278
+msgid "Icon Size"
+msgstr ""
+
+#: motors/inc/visual_composer.php:280
+msgid "Enter icon size in px"
+msgstr ""
+
+#: motors/inc/visual_composer.php:284
+msgid "Content line height"
+msgstr ""
+
+#: motors/inc/visual_composer.php:286
+msgid "Optional"
+msgstr ""
+
+#: motors/inc/visual_composer.php:290 motors/inc/visual_composer.php:411
+#: motors/inc/visual_composer.php:601 motors/inc/visual_composer.php:1576
+#: motors/inc/visual_composer.php:1641 motors/inc/visual_composer.php:2253
+#: motors/inc/visual_composer.php:2272
+msgid "Text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:295
+msgid "Icon Css"
+msgstr ""
+
+#: motors/inc/visual_composer.php:297
+msgid "Icon Design options"
+msgstr ""
+
+#: motors/inc/visual_composer.php:310
+msgid "STM Colored Separator"
+msgstr ""
+
+#: motors/inc/visual_composer.php:317
+msgid "Separator Color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:322
+msgid "Align"
+msgstr ""
+
+#: motors/inc/visual_composer.php:325 motors/inc/visual_composer.php:1427
+#: motors/inc/visual_composer.php:1812
+#: motors/inc/customizer/registration.php:56
+#: motors/inc/customizer/registration.php:903
+#: motors/inc/customizer/registration.php:919
+#: motors/inc/customizer/registration.php:1022
+#: motors/inc/customizer/registration.php:1075
+msgid "Left"
+msgstr ""
+
+#: motors/inc/visual_composer.php:326 motors/inc/visual_composer.php:1429
+#: motors/inc/visual_composer.php:1813
+msgid "Center"
+msgstr ""
+
+#: motors/inc/visual_composer.php:327 motors/inc/visual_composer.php:1428
+#: motors/inc/visual_composer.php:1814
+#: motors/inc/customizer/registration.php:57
+#: motors/inc/customizer/registration.php:904
+#: motors/inc/customizer/registration.php:920
+#: motors/inc/customizer/registration.php:1023
+#: motors/inc/customizer/registration.php:1076
+msgid "Right"
+msgstr ""
+
+#: motors/inc/visual_composer.php:342
+msgid "STM Special Offers"
+msgstr ""
+
+#: motors/inc/visual_composer.php:355
+msgid "Show link to all specials"
+msgstr ""
+
+#: motors/inc/visual_composer.php:360
+msgid "Colored first word"
+msgstr ""
+
+#: motors/inc/visual_composer.php:374
+msgid "STM Car listing tabs"
+msgstr ""
+
+#: motors/inc/visual_composer.php:381
+msgid "Top part background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:387 motors/inc/visual_composer.php:1892
+msgid "Select category"
+msgstr ""
+
+#: motors/inc/visual_composer.php:389 motors/inc/visual_composer.php:1894
+#: motors/inc/visual_composer.php:2389 motors/inc/visual_composer.php:2490
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:393
+msgid "Tab affix"
+msgstr ""
+
+#: motors/inc/visual_composer.php:395
+#: motors/vc_templates/stm_car_listing_tabbed.php:148
+#: motors/vc_templates/stm_car_listing_tabbed.php:195
+#: motors/vc_templates/stm_listings_tabs_2.php:107
+msgid "cars"
+msgstr ""
+
+#: motors/inc/visual_composer.php:396
+msgid "This will appear after category name"
+msgstr ""
+
+#: motors/inc/visual_composer.php:400
+msgid "Cars per load"
+msgstr ""
+
+#: motors/inc/visual_composer.php:402
+msgid "-1 will show all cars from category"
+msgstr ""
+
+#: motors/inc/visual_composer.php:406
+msgid "Enable ajax loading"
+msgstr ""
+
+#: motors/inc/visual_composer.php:418
+msgid "Enable search"
+msgstr ""
+
+#: motors/inc/visual_composer.php:424
+msgid "Search label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:430
+msgid "Search label icon"
+msgstr ""
+
+#: motors/inc/visual_composer.php:437
+msgid "Number of filter columns"
+msgstr ""
+
+#: motors/inc/visual_composer.php:451
+msgid "Select Filter options"
+msgstr ""
+
+#: motors/inc/visual_composer.php:459
+msgid "Enable call-to-action"
+msgstr ""
+
+#: motors/inc/visual_composer.php:465 motors/inc/visual_composer.php:1021
+msgid "Call to action label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:471 motors/inc/visual_composer.php:1026
+msgid "Call to action label icon"
+msgstr ""
+
+#: motors/inc/visual_composer.php:478 motors/inc/visual_composer.php:1032
+msgid "Call to action label right"
+msgstr ""
+
+#: motors/inc/visual_composer.php:484 motors/inc/visual_composer.php:1037
+msgid "Call to action label icon right"
+msgstr ""
+
+#: motors/inc/visual_composer.php:491 motors/inc/visual_composer.php:1043
+msgid "Call to action background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:498 motors/inc/visual_composer.php:1049
+msgid "Call to action text color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:517
+msgid "STM Carousel"
+msgstr ""
+
+#: motors/inc/visual_composer.php:524 motors/inc/visual_composer.php:1132
+msgid "Images"
+msgstr ""
+
+#: motors/inc/visual_composer.php:531
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: motors/inc/visual_composer.php:536 motors/inc/visual_composer.php:594
+#: motors/inc/visual_composer.php:630 motors/inc/visual_composer.php:677
+#: motors/inc/visual_composer.php:699 motors/inc/visual_composer.php:1517
+msgid "Image size"
+msgstr ""
+
+#: motors/inc/visual_composer.php:539 motors/inc/visual_composer.php:597
+#: motors/inc/visual_composer.php:633 motors/inc/visual_composer.php:680
+#: motors/inc/visual_composer.php:702 motors/inc/visual_composer.php:1520
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: motors/inc/visual_composer.php:543
+msgid "Number of slides per row"
+msgstr ""
+
+#: motors/inc/visual_composer.php:566
+msgid "STM Testimonials"
+msgstr ""
+
+#: motors/inc/visual_composer.php:582
+msgid "STM Testimonial"
+msgstr ""
+
+#: motors/inc/visual_composer.php:589 motors/inc/visual_composer.php:625
+#: motors/inc/visual_composer.php:1360 motors/inc/visual_composer.php:1512
+#: motors/inc/visual_composer.php:1596 motors/inc/visual_composer.php:1722
+#: motors/inc/visual_composer.php:1754
+msgid "Image"
+msgstr ""
+
+#: motors/inc/visual_composer.php:606
+msgid "Author name"
+msgstr ""
+
+#: motors/inc/visual_composer.php:611
+msgid "Author car model"
+msgstr ""
+
+#: motors/inc/visual_composer.php:619
+msgid "STM Our team"
+msgstr ""
+
+#: motors/inc/visual_composer.php:637
+msgid "Team member Name"
+msgstr ""
+
+#: motors/inc/visual_composer.php:643
+msgid "Team member position"
+msgstr ""
+
+#: motors/inc/visual_composer.php:648
+msgid "Team member email"
+msgstr ""
+
+#: motors/inc/visual_composer.php:653
+msgid "Team member phone"
+msgstr ""
+
+#: motors/inc/visual_composer.php:661
+msgid "STM Our partners"
+msgstr ""
+
+#: motors/inc/visual_composer.php:667
+msgid "Partners Images"
+msgstr ""
+
+#: motors/inc/visual_composer.php:672
+msgid "Number to show"
+msgstr ""
+
+#: motors/inc/visual_composer.php:687
+msgid "STM Services Archive"
+msgstr ""
+
+#: motors/inc/visual_composer.php:693
+msgid "Services per page"
+msgstr ""
+
+#: motors/inc/visual_composer.php:709
+msgid "STM Technical informations"
+msgstr ""
+
+#: motors/inc/visual_composer.php:722
+msgid "Icon size (px)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:742
+msgid "STM Technical information"
+msgstr ""
+
+#: motors/inc/visual_composer.php:749
+msgid "Technical parameter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:755
+msgid "Technical value"
+msgstr ""
+
+#: motors/inc/visual_composer.php:764
+msgid "Google Map"
+msgstr ""
+
+#: motors/inc/visual_composer.php:771
+msgid "Map Width"
+msgstr ""
+
+#: motors/inc/visual_composer.php:774
+msgid "Enter map width in px or %"
+msgstr ""
+
+#: motors/inc/visual_composer.php:778
+msgid "Map Height"
+msgstr ""
+
+#: motors/inc/visual_composer.php:781
+msgid "Enter map height in px"
+msgstr ""
+
+#: motors/inc/visual_composer.php:785
+msgid "Latitude"
+msgstr ""
+
+#: motors/inc/visual_composer.php:787 motors/inc/visual_composer.php:793
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+
+#: motors/inc/visual_composer.php:791
+msgid "Longitude"
+msgstr ""
+
+#: motors/inc/visual_composer.php:797
+msgid "Map Zoom"
+msgstr ""
+
+#: motors/inc/visual_composer.php:803
+msgid "InfoWindow text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:810
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: motors/inc/visual_composer.php:815
+msgid "Extra class name"
+msgstr ""
+
+#: motors/inc/visual_composer.php:817
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: motors/inc/visual_composer.php:831
+msgid "STM Single Car Title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:834 motors/inc/visual_composer.php:849
+#: motors/inc/visual_composer.php:864 motors/inc/visual_composer.php:879
+#: motors/inc/visual_composer.php:894 motors/inc/visual_composer.php:909
+#: motors/inc/visual_composer.php:924
+msgid "STM Single Car"
+msgstr ""
+
+#: motors/inc/visual_composer.php:846
+msgid "STM Single Car Actions"
+msgstr ""
+
+#: motors/inc/visual_composer.php:861
+msgid "STM Single Car Gallery"
+msgstr ""
+
+#: motors/inc/visual_composer.php:876
+msgid "STM Single Car Price"
+msgstr ""
+
+#: motors/inc/visual_composer.php:891
+msgid "STM Single Car Data"
+msgstr ""
+
+#: motors/inc/visual_composer.php:906
+msgid "STM Single Car MPG"
+msgstr ""
+
+#: motors/inc/visual_composer.php:921
+msgid "STM Single Car Calculator"
+msgstr ""
+
+#: motors/inc/visual_composer.php:937
+msgid "STM Compare Cars"
+msgstr ""
+
+#: motors/inc/visual_composer.php:952
+msgid "STM Call to Action"
+msgstr ""
+
+#: motors/inc/visual_composer.php:963
+msgid "Box color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:968
+msgid "Call to action background"
+msgstr ""
+
+#: motors/inc/visual_composer.php:973 motors/inc/visual_composer.php:1470
+msgid "Attach icon or image"
+msgstr ""
+
+#: motors/inc/visual_composer.php:983 motors/inc/visual_composer.php:1480
+msgid "Text image"
+msgstr ""
+
+#: motors/inc/visual_composer.php:992 motors/inc/visual_composer.php:1498
+msgid "Text icon"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1001 motors/inc/visual_composer.php:1507
+msgid "Call to action text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1015
+msgid "STM Call to action 2"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1064
+msgid "STM Working days"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1075
+#: motors/vc_templates/stm_working_days.php:8
+msgid "Sunday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1080
+#: motors/vc_templates/stm_working_days.php:9
+msgid "Monday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1085
+#: motors/vc_templates/stm_working_days.php:10
+msgid "Tuesday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1090
+#: motors/vc_templates/stm_working_days.php:11
+msgid "Wednesday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1095
+#: motors/vc_templates/stm_working_days.php:12
+msgid "Thursday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1100
+#: motors/vc_templates/stm_working_days.php:13
+msgid "Friday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1105
+#: motors/vc_templates/stm_working_days.php:14
+msgid "Saturday"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1120
+msgid "STM Media Library"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1123 motors/inc/visual_composer.php:1142
+msgid "STM Widgets"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1127 motors/inc/visual_composer.php:1146
+msgid "Widget title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1139 motors/inc/widgets/latest-posts.php:40
+msgid "STM Recent Posts"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1151
+msgid "Number of posts"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1158
+#: motors/vc_templates/stm_add_a_car.php:174
+#: motors/vc_templates/stm_add_a_car.php:189
+#: motors/vc_templates/stm_add_a_car.php:194
+#: motors/vc_templates/stm_add_a_car.php:214
+#: motors/vc_templates/stm_add_a_car.php:234
+#: motors/vc_templates/stm_add_a_car.php:497
+#: motors/vc_templates/stm_add_a_car.php:512
+#: motors/vc_templates/stm_add_a_car.php:517
+#: motors/vc_templates/stm_add_a_car.php:552
+#: motors/vc_templates/stm_add_a_car.php:572
+#: motors/vc_templates/stm_car_listing_tabbed.php:213
+msgid "Select"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1166
+msgid "STM Sidebar"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1172
+msgid "Choose sidebar"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1188
+msgid "STM Post title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1191 motors/inc/visual_composer.php:1205
+#: motors/inc/visual_composer.php:1219 motors/inc/visual_composer.php:1233
+#: motors/inc/visual_composer.php:1254 motors/inc/visual_composer.php:1269
+#: motors/inc/visual_composer.php:1284 motors/inc/visual_composer.php:1299
+msgid "STM Post Partials"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1202
+msgid "STM Post image"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1216
+msgid "STM Post Info"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1230
+msgid "STM Post Meta Bottom(share, tags, categories)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1239
+msgid "Share this css"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1251
+msgid "STM Post Author Box"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1266
+msgid "STM Post Comments"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1281
+msgid "STM Post FullWidth Info"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1296
+msgid "STM Post Animated Image"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1303
+msgid "Subtitle"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1327
+msgid "STM Contact form"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1339 motors/inc/visual_composer.php:1365
+#: motors/inc/visual_composer.php:2149
+msgid "Choose form"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1353
+msgid "STM Service Contact form"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1356 motors/inc/visual_composer.php:1552
+#: motors/inc/visual_composer.php:1592 motors/inc/visual_composer.php:1657
+#: motors/inc/visual_composer.php:1691 motors/inc/visual_composer.php:1718
+msgid "STM Service Layout"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1380
+msgid "STM Modern Filter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1396
+msgid "STM Classic Filter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1412
+msgid "STM Icon Button"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1424
+msgid "Alignment"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1458
+msgid "STM Sidebar call to action"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1489
+msgid "Text image width"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1533
+msgid "STM Sell a car"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1549
+msgid "STM Service Icon Box"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1566 motors/inc/visual_composer.php:2516
+msgid "Icon size(px)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1589
+msgid "STM Service Info Box"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1611
+msgid "Title color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1616 motors/inc/visual_composer.php:2327
+msgid "Price label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1621
+msgid "Price value"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1626
+msgid "Price color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1631
+msgid "Price background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1636
+msgid "Content color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1654
+msgid "STM Stats Counter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1667
+msgid "Counter Value"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1673
+msgid "Duration"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1687
+msgid "STM Image links"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1695
+msgid "Image per row"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1715
+msgid "STM Image Link"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1727
+msgid "Image @2x"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1747
+msgid "STM Listing banner"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1750 motors/inc/visual_composer.php:1784
+#: motors/inc/visual_composer.php:1843 motors/inc/visual_composer.php:1927
+#: motors/inc/visual_composer.php:1952 motors/inc/visual_composer.php:2351
+#: motors/inc/visual_composer.php:2367 motors/inc/visual_composer.php:2383
+#: motors/inc/visual_composer.php:2478 motors/inc/visual_composer.php:2506
+msgid "STM Listing Layout"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1759
+msgid "Show SVG arrow"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1768 motors/inc/visual_composer.php:1820
+msgid "Content"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1781
+msgid "STM Icon Filter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1788
+msgid "Select Icon Filter taxonomy"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1794
+msgid "Per row"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1809
+msgid "Items Align"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1825
+msgid "\"Show all\" label text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1827
+msgid ""
+"If you want to show only important types, other will be hidden, till user "
+"click on this label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1840
+msgid "STM Listing tabs style 2"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1852
+msgid "Number of cars to show in tab"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1858
+msgid "Include recent items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1867
+msgid "Recent tabs label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1869
+#: motors/partials/user/dealer-inventory.php:44
+msgid "Recent items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1875
+msgid "Include popular items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1884
+msgid "Popular tabs label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1886
+#: motors/partials/user/dealer-inventory.php:43
+msgid "Popular items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1899
+msgid "Category tabs affix"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1901
+msgid "items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1906
+msgid "Show \"Show more\" button in tabs"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1924
+msgid "STM Blog grid"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1931
+msgid "Number of posts to show"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1934
+msgid ""
+"Sticky posts are not counted here, so if you want to show 3 posts, and you "
+"have one sticky post, type \"2\" in this field"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1947
+msgid "location"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1949
+msgid "STM Listing Search (tabs)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1957
+msgid "Show All"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1966
+msgid "All tab label"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1968
+msgid "All conditions"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1973
+msgid "Search button postfix"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1975
+msgid "Cars"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1979 motors/inc/visual_composer.php:2020
+#: motors/inc/visual_composer.php:2482
+msgid "Select Taxonomies, which will be in this tab as filter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1988 motors/inc/visual_composer.php:2399
+msgid "Items"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1990
+msgid "Enter values for items - title, sub title."
+msgstr ""
+
+#: motors/inc/visual_composer.php:1993 motors/inc/visual_composer.php:2008
+msgid "Taxonomy"
+msgstr ""
+
+#: motors/inc/visual_composer.php:1997
+msgid "Tab Title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2001
+msgid "Filters"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2010
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions. Note, only one taxonomy will be used as tab). This parameter "
+"will be used as default filter for this tab."
+msgstr ""
+
+#: motors/inc/visual_composer.php:2014
+msgid "Tab title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2037
+msgid "STM Heading Title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2040 motors/inc/visual_composer.php:2060
+#: motors/inc/visual_composer.php:2075 motors/inc/visual_composer.php:2090
+#: motors/inc/visual_composer.php:2105 motors/inc/visual_composer.php:2125
+#: motors/inc/visual_composer.php:2140 motors/inc/visual_composer.php:2166
+#: motors/inc/visual_composer.php:2342
+msgid "STM Listing Single Car modules"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2057
+msgid "STM Car Top Info (Title, price)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2072
+msgid "STM Car Gallery"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2087
+msgid "STM Car Details"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2102
+msgid "STM Car Features"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2122
+msgid "STM Car Dealer Info"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2137
+msgid "STM Car Listing Contact Form"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2163
+msgid "STM Similar cars"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2182
+msgid "Tables"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2185
+msgid "Three"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2186
+msgid "Two"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2187
+msgid "One"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2197 motors/inc/visual_composer.php:2236
+#: motors/inc/visual_composer.php:2277 motors/inc/visual_composer.php:2307
+#: motors/inc/visual_composer.php:2314 motors/inc/visual_composer.php:2321
+#, php-format
+msgid "Table %s"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2202 motors/inc/visual_composer.php:2206
+#: motors/inc/visual_composer.php:2221
+#: motors/partials/single-car/car-calculator.php:40
+#: motors/vc_templates/stm_auto_loan_calculator.php:53
+#: motors/vc_templates/stm_single_car_calculator.php:45
+msgid "Period"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2210 motors/inc/visual_composer.php:2231
+#: motors/inc/visual_composer.php:2456 motors/inc/visual_composer.php:2462
+#: motors/vc_templates/stm_add_a_car.php:375
+#: motors/vc_templates/stm_add_a_car.php:819
+#: motors/woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2214
+msgid "Period Text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2224
+msgid "Month"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2225
+msgid "Yearly"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2241
+#: motors/partials/single-car-listing/car-main.php:29
+msgid "Features"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2249 motors/inc/visual_composer.php:2266
+msgid "Check"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2282
+msgid "Labels"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2286 motors/inc/visual_composer.php:2297
+msgid "Label text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2290
+msgid "Label color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2303
+msgid "Label background color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2312
+msgid "Link text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2340
+msgid "STM Pricing Tables"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2348
+msgid "STM User/Dealer login/register"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2364
+msgid "STM Posts Available"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2380
+msgid "STM Add a car"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2387
+msgid "Main taxonomies to fill"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2393
+msgid "Allowed histories"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2395
+msgid ""
+"Enter allowed histories, separated by comma without spaces. Example - "
+"(Carfax, AutoCheck, Carfax 1 Owner, etc)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2403
+msgid "Car feature title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2407
+msgid "Car features"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2414
+msgid "Car feature section title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2420
+msgid "Car feature section features"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2422
+msgid ""
+"Enter features, separated by comma without spaces. Example - (Bluetooth,DVD "
+"Player,etc)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2425
+msgid "Step 2 features"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2429
+msgid "Media gallery notification text"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2431
+msgid "Step 3 gallery"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2435
+msgid "Seller template phrases"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2437
+msgid ""
+"Enter phrases, separated by comma without spaces. Example - (Excellent "
+"condition, Always garaged, etc)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2438
+msgid "Step 4 phrases"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2442
+msgid "Title for new users"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2444 motors/inc/visual_composer.php:2450
+msgid "Register/Login User"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2448
+msgid "Text for new users"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2454
+msgid "Price title"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2460
+msgid "Price description"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2475
+msgid "STM Dealer List"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2488
+msgid "Show dealer category fields"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2503
+msgid "STM Icon Counter"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2518
+msgid "Just type a number."
+msgstr ""
+
+#: motors/inc/visual_composer.php:2522
+msgid "Icon Box Text Color"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2527
+msgid "Count to number"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2532
+msgid "Count time (.s)"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2537
+msgid "Counter Affix"
+msgstr ""
+
+#: motors/inc/visual_composer.php:2542
+msgid "Count label"
+msgstr ""
+
+#: motors/inc/customizer/google-fonts.php:7
+#: motors/inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:33
+msgid "VK"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:34
+msgid "Instagram"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:35
+msgid "Behance"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:36
+msgid "Dribbble"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:37
+msgid "Flickr"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:38
+msgid "Git"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:39
+msgid "Linkedin"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:40
+msgid "Pinterest"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:41
+msgid "Yahoo"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:42
+msgid "Delicious"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:43
+msgid "Dropbox"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:44
+msgid "Reddit"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:45
+msgid "Soundcloud"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:46
+msgid "Google"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:47
+msgid "Google +"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:48
+msgid "Skype"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:50
+msgid "Youtube Play"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:51
+msgid "Tumblr"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:52
+msgid "Whatsapp"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:62
+msgid "Site Settings"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:66
+msgid "Header"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:70
+msgid "Listing"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:80
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:85
+#: motors/partials/header/header-listing.php:44
+#: motors/partials/header/header.php:24
+#: motors/partials/service/header-service.php:35
+msgid "Logo"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:90
+msgid "Logo Width (px)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:94
+msgid "Menu margin top (px)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:102
+msgid "Text Logo Font Family"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:104
+msgid "If you dont have logo, you can customize your brand name"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:108
+msgid "Text Logo Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:117
+msgid "Text Logo Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:127
+msgid "One Click update"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:132
+msgid "Envato Username"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:135
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. "
+"Stylemixthemes)."
+msgstr ""
+
+#: motors/inc/customizer/registration.php:138
+msgid "Envato API Key"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:141
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: motors/inc/customizer/registration.php:147
+#: motors/inc/customizer/registration.php:152
+msgid "Style"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:155
+msgid "Default"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:156
+msgid "Blue"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:157
+msgid "Light Blue"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:158
+msgid "Green"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:159
+msgid "Red"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:160
+msgid "Yellow"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:161
+msgid "Custom Colors"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:165
+msgid "Custom Base Car Dealer Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:170
+msgid "Custom Secondary Car Dealer Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:175
+msgid "Custom Base Listing Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:180
+msgid "Custom Secondary Listing Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:185
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:190
+#: motors/partials/frontend_customizer.php:44
+msgid "Background Image"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:201
+msgid "Custom Bg Image"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:206
+msgid "Frontend Customizer"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:211
+msgid "Enable Preloader"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:216
+msgid "Site smooth scroll"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:225
+msgid "Typography"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:230
+msgid "Body Font Family"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:235
+msgid "Body Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:245
+msgid "Body Line Height"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:253
+msgid "Body Font Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:263
+msgid "Menu Text Font Family"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:268
+msgid "Menu Text Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:278
+msgid "Menu Text Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:288
+msgid "Headings Font Family"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:309
+msgid "Headings Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:316
+msgid "H1 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:326
+msgid "H2 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:336
+msgid "H3 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:346
+msgid "H4 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:356
+msgid "H5 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:366
+msgid "H6 Font Size"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:379
+msgid "Static Front Page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:385
+#: motors/inc/customizer/registration.php:596
+msgid "Main settings"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:389
+msgid "Header Background Color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:397
+msgid "Main phone label"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:402
+msgid "Main phone"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:411
+msgid "Secondary phone label 1"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:416
+msgid "Secondary phone 1"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:422
+msgid "Secondary phone label 2"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:427
+msgid "Secondary phone 2"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:436
+#: motors/inc/customizer/registration.php:506
+#: motors/inc/customizer/registration.php:511
+msgid "Address"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:441
+msgid "Google Map Address URL"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:448
+msgid "Header Style"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:452
+#: motors/partials/frontend_customizer.php:17
+#: motors/partials/blog/content-grid-loop.php:52
+#: motors/partials/blog/grid-loop.php:26
+msgid "Sticky"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:465
+msgid "Listing layout header image for non-transparent option"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:469
+msgid "Button label in header"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:471
+#: motors/partials/header/header-listing.php:55
+msgid "Add your item"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:474
+msgid "Button link in header"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:483
+msgid "Top bar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:487
+msgid "Top bar Enabled"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:493
+msgid "Top bar Login Enabled (Woocommerce needed or listing Layout chosen)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:499
+msgid "Top bar language switcher (WPML needed)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:516
+msgid "Show address on mobile"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:523
+msgid "Working Hours"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:528
+msgid "Show Working hours on mobile"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:540
+msgid "Show phone on mobile"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:547
+msgid "Top bar menu Enabled"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:553
+msgid "Top bar Socials"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:558
+msgid "Top bar background color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:568
+msgid "Service Layout"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:571
+msgid "Header button label"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:573
+#: motors/partials/service/header-service.php:43
+msgid "Make an Appointment"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:576
+msgid "Header button link"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:584
+#: motors/inc/customizer/registration.php:588
+msgid "Header Socials"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:600
+msgid "Footer background color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:607
+msgid "Widget Areas"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:621
+msgid "Footer copyright Enabled"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:627
+msgid "Footer Copyright background color"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:634
+msgid "Copyright"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:635
+msgid ""
+"&copy; 2015 <a target=\"_blank\" href=\"http://www.stylemixthemes.com/"
+"\">Stylemix Themes</a><span class=\"divider\"></span>Trademarks and brands "
+"are the property of their respective owners."
+msgstr ""
+
+#: motors/inc/customizer/registration.php:639
+msgid "Copyright Socials"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:647
+msgid "Additional Scripts"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:654
+msgid ""
+"Enter in any custom script to include in your site's footer. Be sure to use "
+"double quotes for strings."
+msgstr ""
+
+#: motors/inc/customizer/registration.php:660
+msgid "Inventory settings"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:664
+msgid "Listing archive"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:667
+msgid "Choose listing archive page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:671
+msgid "Filter Position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:677
+msgid "Title background"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:681
+msgid "Listing archive \"Title box\" title"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:683 motors/partials/title_box.php:47
+msgid "Inventory"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:686
+msgid "Price currency"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:691
+msgid "Price currency position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:697
+msgid "Price delimeter"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:702
+msgid "Show location/include location in filter"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:707
+msgid "Unit measurement"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:710
+msgid "Miles"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:711
+msgid "Kilometers"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:716
+#: motors/inc/customizer/registration.php:800
+msgid "Show stock"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:721
+#: motors/inc/customizer/registration.php:806
+msgid "Show test drive schedule"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:726
+#: motors/inc/customizer/registration.php:811
+msgid "Show compare"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:731
+#: motors/inc/customizer/registration.php:816
+msgid "Show share block"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:735
+#: motors/inc/customizer/registration.php:821
+msgid "Show PDF brochure"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:739
+#: motors/inc/customizer/registration.php:826
+msgid "Show certified logo 1"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:744
+#: motors/inc/customizer/registration.php:830
+msgid "Show certified logo 2"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:752
+msgid "Default Title"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:757
+msgid "Generated title affix"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:762
+msgid "Display generated car title as:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:764
+msgid "{make} {serie} {ca-year}"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:765
+msgid ""
+"\"Put in curly brackets slug of taxonomy. For Example - {make} {serie} {ca-"
+"year}. Leave empty if you want to display default car title.\""
+msgstr ""
+
+#: motors/inc/customizer/registration.php:768
+msgid "Show two first parametres as a badge (only on archive page)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:773
+msgid "Enable favorites"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:778
+msgid "Enable dealer info on listing"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:783
+msgid "Hide price labels on listing archive"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:788
+msgid "Listing sidebar filter background"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:796
+msgid "Single Car Settings"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:834
+msgid "Show featured button"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:842
+msgid "Show VIN"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:847
+msgid "Show Registered date"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:852
+msgid "Show History"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:860
+#: motors/partials/header/header-nav.php:44
+#: motors/partials/header/header.php:50
+#: motors/partials/single-car/single-car-compare-modal.php:13
+msgid "Compare"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:864
+msgid "Compare page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:867
+msgid "Choose landing page for compare"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:875
+msgid "User/Dealer options"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:879
+msgid "Dealer list page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:882
+msgid "Choose page for Dealer list page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:886
+msgid "Login/Registration page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:889
+msgid "Choose page for login User/Dealer"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:893
+msgid "Default user sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:896
+#: motors/inc/customizer/registration.php:912
+msgid "Choose page for Default user sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:900
+msgid "User Sidebar Position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:909
+msgid "Default dealer sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:916
+msgid "Dealer Sidebar Position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:925
+msgid "Add a car page"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:928
+msgid ""
+"Choose page for Add to car Page (Also, this page will be used for editing "
+"items)"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:932
+msgid "Rate 1 label:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:937
+msgid "Rate 2 label:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:942
+msgid "Rate 3 label:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:947
+msgid "User Posts Limit:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:949
+msgid "3"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:952
+msgid "User Post Images Upload Limit:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:954
+msgid "5"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:957
+msgid "Dealer Posts Limit:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:959
+msgid "50"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:962
+msgid "Dealer Post Images Upload Limit:"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:964
+msgid "10"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:967
+msgid "Site demo mode"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:975
+msgid "Paypal options"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:979
+msgid "Currency"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:981
+msgid "USD"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:982
+msgid "Ex.: USD"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:985
+msgid "Paypal Email"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:990
+msgid "Paypal mode"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:993
+msgid "Sandbox"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:994
+msgid "Live"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:999
+msgid "Membership price"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1002
+msgid "Membership submission price"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1013
+msgid "Choose Shop Sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1019
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1033
+msgid "Without sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1034
+msgid "Primary sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1047
+msgid "Blog"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1051
+msgid "View type"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1054
+msgid "Grid"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1055
+msgid "List"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1060
+msgid "Choose archive sidebar"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1066
+msgid "Choose default sidebar for single blog post"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1072
+msgid "Sidebar position"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1081
+msgid "Show excerpt"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1088
+#: motors/inc/widgets/socials.php:11
+msgid "Socials"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1092
+msgid "Socials Links"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1100
+msgid "Socials Widget"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1104
+msgid "\"Social Widget\" socials"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1122
+#: motors/inc/customizer/registration.php:1126
+msgid "Recaptcha"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1131
+msgid "Public key"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1135
+msgid "Secret key"
+msgstr ""
+
+#: motors/inc/customizer/registration.php:1142
+msgid "CSS"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: motors/inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:399
+#: motors/inc/tgm/tgm-plugin-activation.php:3026
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:825
+#: motors/inc/tgm/tgm-plugin-activation.php:3435
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:932
+#: motors/inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2164
+msgid "Required"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2167
+msgid "Recommended"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2183
+msgid "WordPress Repository"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2186
+msgid "External Source"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2206
+msgid "Not Installed"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2210
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2212
+msgid "Active"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2218
+msgid "Required Update not Available"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2221
+msgid "Requires Update"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2224
+msgid "Update recommended"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2376
+msgid "Installed version:"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2384
+msgid "Minimum required version:"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2396
+msgid "Available version:"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2419
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2433
+msgid "Plugin"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2434
+msgid "Source"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2435
+msgid "Type"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2439
+msgid "Version"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2440
+#: motors/woocommerce/myaccount/my-orders.php:27
+#: motors/woocommerce/myaccount/my-orders.php:53
+#: motors/woocommerce/myaccount/my-orders.php:74
+msgid "Status"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2567
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2600
+msgid "Install"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2606
+msgid "Update"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2609
+msgid "Activate"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2640
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2642
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2678
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2680
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2785
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:2811
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3025
+msgid "Plugin activation failed."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3359
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3361
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3362
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3366
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3367
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3367
+#: motors/inc/tgm/tgm-plugin-activation.php:3373
+msgid "Show Details"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3367
+#: motors/inc/tgm/tgm-plugin-activation.php:3373
+msgid "Hide Details"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3368
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3369
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3372
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3373
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3374
+msgid "All installations have been completed."
+msgstr ""
+
+#: motors/inc/tgm/tgm-plugin-activation.php:3375
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: motors/inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: motors/inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: motors/inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: motors/inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: motors/inc/widgets/address.php:5
+msgid "STM Address widget"
+msgstr ""
+
+#: motors/inc/widgets/address.php:7
+msgid "STM Address"
+msgstr ""
+
+#: motors/inc/widgets/address.php:24
+msgid "Show on map"
+msgstr ""
+
+#: motors/inc/widgets/address.php:49 motors/inc/widgets/car-contact-form.php:68
+#: motors/inc/widgets/dealer_info.php:31
+#: motors/inc/widgets/latest-posts.php:108
+#: motors/inc/widgets/similar_cars.php:32 motors/inc/widgets/socials.php:71
+#: motors/inc/widgets/text-widget.php:40
+msgid "Title:"
+msgstr ""
+
+#: motors/inc/widgets/address.php:52
+msgid "Google map link:"
+msgstr ""
+
+#: motors/inc/widgets/address.php:55 motors/inc/widgets/text-widget.php:43
+msgid "Content:"
+msgstr ""
+
+#: motors/inc/widgets/address.php:58 motors/inc/widgets/dealer_info.php:34
+#: motors/inc/widgets/text-widget.php:46
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: motors/inc/widgets/car-contact-form.php:5
+#: motors/inc/widgets/car-contact-form.php:7
+msgid "STM Listing Car Form"
+msgstr ""
+
+#: motors/inc/widgets/car-contact-form.php:71
+msgid "CF7 shortcode:"
+msgstr ""
+
+#: motors/inc/widgets/dealer_info.php:5 motors/inc/widgets/dealer_info.php:7
+msgid "STM Dealer Info"
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:7
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:9
+msgid "STM Last Post"
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:42
+msgid "1"
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:79
+#: motors/vc_templates/stm_recent_posts.php:30
+msgid "Comment"
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:83
+#: motors/vc_templates/stm_recent_posts.php:36
+msgid "No comments"
+msgstr ""
+
+#: motors/inc/widgets/latest-posts.php:112
+msgid "Number of posts:"
+msgstr ""
+
+#: motors/inc/widgets/similar_cars.php:5 motors/inc/widgets/similar_cars.php:7
+msgid "STM Similar Cars"
+msgstr ""
+
+#: motors/inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+
+#: motors/inc/widgets/socials.php:66
+msgid "Social Network"
+msgstr ""
+
+#: motors/inc/widgets/text-widget.php:5
+msgid "STM Arbitrary text or HTML."
+msgstr ""
+
+#: motors/inc/widgets/text-widget.php:7
+msgid "STM Text"
+msgstr ""
+
+#: motors/partials/car-filter-loop.php:14
+#: motors/partials/listing-cars/listing-grid-directory-loop-4.php:196
+#: motors/partials/listing-cars/listing-grid-directory-loop-animate.php:181
+#: motors/partials/listing-cars/listing-grid-directory-loop.php:195
+#: motors/partials/listing-cars/listing-grid-loop.php:67
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:268
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:232
+#: motors/partials/listing-cars/listing-list-directory-loop.php:233
+#: motors/partials/listing-cars/listing-list-loop.php:100
+#: motors/partials/listing-cars/listing-list-loop.php:106
+#: motors/partials/single-car/car-gallery.php:17
+#: motors/partials/single-car-listing/car-gallery.php:41
+#: motors/vc_templates/stm_single_car_gallery.php:20
+msgid "Placeholder"
+msgstr ""
+
+#: motors/partials/compare.php:44 motors/partials/compare.php:205
+#: motors/vc_templates/stm_compare_cars.php:33
+#: motors/vc_templates/stm_compare_cars.php:201
+msgid "Compare Vehicles"
+msgstr ""
+
+#: motors/partials/compare.php:62 motors/partials/compare.php:106
+#: motors/partials/compare.php:216 motors/partials/compare.php:295
+#: motors/vc_templates/stm_compare_cars.php:51
+#: motors/vc_templates/stm_compare_cars.php:95
+#: motors/vc_templates/stm_compare_cars.php:212
+#: motors/vc_templates/stm_compare_cars.php:292
+msgid "Empty"
+msgstr ""
+
+#: motors/partials/compare.php:97
+#: motors/partials/listing-cars/listing-grid-directory-loop-4.php:86
+#: motors/partials/listing-cars/listing-grid-directory-loop.php:85
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:88
+#: motors/partials/listing-cars/listing-list-directory-loop.php:88
+#: motors/vc_templates/stm_compare_cars.php:86
+msgid "Remove from compare"
+msgstr ""
+
+#: motors/partials/compare.php:108 motors/partials/compare.php:218
+#: motors/partials/compare.php:297 motors/vc_templates/stm_compare_cars.php:97
+#: motors/vc_templates/stm_compare_cars.php:214
+#: motors/vc_templates/stm_compare_cars.php:294
+msgid "Add car to compare"
+msgstr ""
+
+#: motors/partials/compare.php:165 motors/partials/compare.php:169
+#: motors/vc_templates/stm_compare_cars.php:160
+#: motors/vc_templates/stm_compare_cars.php:164
+msgid "None"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:11
+msgid "Nav Mode"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:15
+msgid "Static"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:22
+msgid "Nav Transparency"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:26
+msgid "Off"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:28
+msgid "On"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:33
+msgid "Layout"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:37
+msgid "Boxed"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:39
+msgid "Wide"
+msgstr ""
+
+#: motors/partials/frontend_customizer.php:58
+msgid "Color Skin"
+msgstr ""
+
+#: motors/partials/title_box.php:37
+msgid "News"
+msgstr ""
+
+#: motors/partials/top-bar.php:55 motors/partials/top-bar.php:83
+#: motors/partials/user/dealer-write-review.php:169
+#: motors/partials/user/user-dropdown.php:63
+#: motors/partials/user/private/mobile/user.php:23
+#: motors/vc_templates/stm_login_register.php:42
+#: motors/woocommerce/myaccount/form-login.php:30
+#: motors/woocommerce/myaccount/form-login.php:45
+msgid "Login"
+msgstr ""
+
+#: motors/partials/top-bar.php:58 motors/partials/top-bar.php:86
+#: motors/woocommerce/myaccount/form-login.php:67
+#: motors/woocommerce/myaccount/form-login.php:99
+msgid "Register"
+msgstr ""
+
+#: motors/partials/blog/content-grid-loop.php:34
+#: motors/partials/blog/content-list-loop.php:22
+#: motors/partials/blog/grid-loop.php:14
+#: motors/partials/listing-cars/listing-list-loop.php:63
+#: motors/partials/single-car-listing/car-gallery.php:88
+msgid "Video"
+msgstr ""
+
+#: motors/partials/blog/content-grid-loop.php:39
+#: motors/partials/blog/content-list-loop.php:8
+#: motors/partials/blog/grid-loop.php:19
+msgid "Sticky Post"
+msgstr ""
+
+#: motors/partials/blog/content-grid-loop.php:68
+#: motors/partials/blog/grid-loop.php:42
+msgid "Continue reading"
+msgstr ""
+
+#: motors/partials/blog/content-list-loop.php:41
+#: motors/partials/blog/content.php:66
+#: motors/vc_templates/stm_post_animated_image.php:32
+#: motors/vc_templates/stm_post_fullwidth_info.php:27
+#: motors/vc_templates/stm_post_info.php:19
+msgid "Posted by:"
+msgstr ""
+
+#: motors/partials/blog/content.php:103
+#: motors/vc_templates/stm_post_meta_bottom.php:16
+msgid "Category:"
+msgstr ""
+
+#: motors/partials/blog/content.php:116
+#: motors/vc_templates/stm_post_meta_bottom.php:28
+msgid "Tags:"
+msgstr ""
+
+#: motors/partials/blog/content.php:133 motors/partials/blog/content.php:136
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:111
+#: motors/partials/listing-cars/listing-list-loop-actions.php:106
+#: motors/partials/single-car/car-actions.php:96
+#: motors/partials/single-car/car-actions.php:99
+#: motors/vc_templates/stm_post_meta_bottom.php:45
+#: motors/vc_templates/stm_post_meta_bottom.php:48
+#: motors/vc_templates/stm_single_car_actions.php:105
+msgid "Share this"
+msgstr ""
+
+#: motors/partials/blog/content.php:150
+#: motors/vc_templates/stm_post_author_box.php:15
+msgid "Author:"
+msgstr ""
+
+#: motors/partials/header/header-listing.php:88
+#: motors/partials/header/header-nav.php:43
+msgid "Watch compared"
+msgstr ""
+
+#: motors/partials/header/header-nav.php:58
+msgid "Watch shop items"
+msgstr ""
+
+#: motors/partials/header/header-nav.php:60
+#: motors/partials/header/header.php:53
+msgid "Cart"
+msgstr ""
+
+#: motors/partials/header/header-nav.php:70
+msgid "Open Live Chat"
+msgstr ""
+
+#: motors/partials/header/header-nav.php:72
+msgid "Live chat"
+msgstr ""
+
+#: motors/partials/header/header.php:161
+msgid "View on map"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:33
+#: motors/partials/listing-cars/listing-directory-archive.php:97
+#: motors/vc_templates/stm_dealer_list.php:103
+#: motors/vc_templates/stm_modern_filter.php:275
+msgid "Sort by:"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:36
+#: motors/partials/listing-cars/listing-directory-archive.php:103
+msgid "Date: newest first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:37
+#: motors/partials/listing-cars/listing-directory-archive.php:104
+msgid "Date: oldest first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:38
+#: motors/partials/listing-cars/listing-directory-archive.php:105
+msgid "Price: lower first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:39
+#: motors/partials/listing-cars/listing-directory-archive.php:106
+msgid "Price: highest first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:40
+#: motors/partials/listing-cars/listing-directory-archive.php:107
+msgid "Mileage: lowest first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-archive.php:41
+#: motors/partials/listing-cars/listing-directory-archive.php:108
+msgid "Mileage: highest first"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:38
+#: motors/partials/listing-cars/listing-list-loop-actions.php:33
+#: motors/partials/single-car/car-actions.php:26
+#: motors/vc_templates/stm_single_car_actions.php:32
+msgid "stock"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:47
+#: motors/partials/listing-cars/listing-list-loop-actions.php:42
+#: motors/partials/single-car/car-actions.php:35
+#: motors/vc_templates/stm_single_car_actions.php:41
+msgid "Schedule Test Drive"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:62
+#: motors/partials/listing-cars/listing-list-loop-actions.php:57
+#: motors/partials/single-car/car-actions.php:50
+#: motors/vc_templates/stm_single_car_actions.php:56
+msgid "in compare list"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:88
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:108
+#: motors/partials/listing-cars/listing-list-loop-actions.php:83
+#: motors/partials/listing-cars/listing-list-loop-actions.php:103
+#: motors/partials/single-car/car-actions.php:76
+#: motors/vc_templates/stm_single_car_actions.php:82
+#: motors/vc_templates/stm_single_car_actions.php:102
+msgid "Download brochure"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:91
+#: motors/partials/listing-cars/listing-list-loop-actions.php:86
+#: motors/partials/single-car/car-actions.php:79
+#: motors/vc_templates/stm_single_car_actions.php:85
+msgid "Car brochure"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:124
+#: motors/partials/listing-cars/listing-list-loop-actions.php:119
+#: motors/partials/single-car/car-actions.php:113
+#: motors/vc_templates/stm_single_car_actions.php:119
+msgid "Logo 1"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directive-list-loop-actions.php:137
+#: motors/partials/listing-cars/listing-list-loop-actions.php:132
+#: motors/partials/single-car/car-actions.php:126
+#: motors/vc_templates/stm_single_car_actions.php:132
+msgid "Logo 2"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directory-archive.php:84
+msgid "matches"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-directory-archive.php:101
+msgid "Nearest"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-grid-directory-loop-4.php:64
+#: motors/partials/listing-cars/listing-grid-directory-loop.php:63
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:108
+#: motors/partials/listing-cars/listing-list-directory-loop.php:108
+msgid "Add to favorites"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-grid-directory-loop-4.php:68
+#: motors/partials/listing-cars/listing-grid-directory-loop.php:67
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:112
+#: motors/partials/listing-cars/listing-list-directory-loop.php:112
+msgid "Remove from favorites"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:219
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:233
+#: motors/woocommerce/myaccount/my-address.php:110
+msgid "Edit"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:223
+msgid "Enable"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:225
+msgid "Disable"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:230
+#: motors/partials/user/private/user-inventory.php:20
+msgid "Pending"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:237
+#: motors/partials/user/private/user-inventory.php:4
+#: motors/partials/user/private/user-inventory.php:8
+#: motors/woocommerce/cart/cart.php:29
+msgid "Delete"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:374
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:338
+#: motors/partials/listing-cars/listing-list-directory-loop.php:339
+msgid "Distance"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-directory-edit-loop.php:463
+#: motors/partials/listing-cars/listing-list-directory-loop-animate.php:427
+#: motors/partials/listing-cars/listing-list-directory-loop.php:428
+#: motors/partials/listing-cars/listing-list-loop.php:224
+msgid "View more"
+msgstr ""
+
+#: motors/partials/listing-cars/listing-list-loop.php:71
+#: motors/partials/single-car/car-gallery.php:26
+#: motors/vc_templates/stm_single_car_gallery.php:28
+msgid "Special"
+msgstr ""
+
+#: motors/partials/listing-layout-parts/footer-copyright-top.php:17
+msgid "Search Inventory"
+msgstr ""
+
+#: motors/partials/modals/get-car-price.php:7
+msgid "Request car price"
+msgstr ""
+
+#: motors/partials/modals/get-car-price.php:20
+#: motors/partials/modals/test-drive.php:20
+#: motors/vc_templates/stm_sell_a_car.php:47
+#: motors/woocommerce/single-product-reviews.php:73
+msgid "Email"
+msgstr ""
+
+#: motors/partials/modals/get-car-price.php:34
+#: motors/partials/modals/test-drive.php:34
+msgid "Best time"
+msgstr ""
+
+#: motors/partials/modals/get-car-price.php:43
+#: motors/partials/modals/test-drive.php:54
+msgid "Request"
+msgstr ""
+
+#: motors/partials/modals/searchform.php:6
+#: motors/vc_templates/stm_car_listing_tabbed.php:230
+msgid "Search"
+msgstr ""
+
+#: motors/partials/modals/searchform.php:9
+msgid "Start typing here..."
+msgstr ""
+
+#: motors/partials/modals/test-drive.php:7
+msgid "Schedule a Test Drive"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:18
+#: motors/vc_templates/stm_single_car_calculator.php:23
+msgid "Financing calculator"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:25
+#: motors/vc_templates/stm_auto_loan_calculator.php:38
+#: motors/vc_templates/stm_single_car_calculator.php:30
+msgid "Vehicle price"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:33
+#: motors/vc_templates/stm_auto_loan_calculator.php:46
+#: motors/vc_templates/stm_single_car_calculator.php:38
+msgid "Interest rate"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:40
+#: motors/vc_templates/stm_auto_loan_calculator.php:53
+#: motors/vc_templates/stm_single_car_calculator.php:45
+msgid "month"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:48
+#: motors/vc_templates/stm_auto_loan_calculator.php:61
+#: motors/vc_templates/stm_single_car_calculator.php:53
+msgid "Down Payment"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:53
+#: motors/vc_templates/stm_auto_loan_calculator.php:66
+#: motors/vc_templates/stm_single_car_calculator.php:58
+msgid "Calculate"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:66
+#: motors/vc_templates/stm_auto_loan_calculator.php:79
+#: motors/vc_templates/stm_single_car_calculator.php:71
+msgid "Monthly Payment"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:69
+#: motors/vc_templates/stm_auto_loan_calculator.php:82
+#: motors/vc_templates/stm_single_car_calculator.php:74
+msgid "Total Interest Payment"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:72
+#: motors/vc_templates/stm_auto_loan_calculator.php:85
+#: motors/vc_templates/stm_single_car_calculator.php:77
+msgid "Total Amount to Pay"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:119
+#: motors/vc_templates/stm_auto_loan_calculator.php:147
+#: motors/vc_templates/stm_single_car_calculator.php:124
+msgid "Please fill Vehicle Price field"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:124
+#: motors/vc_templates/stm_auto_loan_calculator.php:152
+#: motors/vc_templates/stm_single_car_calculator.php:129
+msgid "Please fill Interest Rate field"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:129
+#: motors/vc_templates/stm_auto_loan_calculator.php:157
+#: motors/vc_templates/stm_single_car_calculator.php:134
+msgid "Please fill Period field"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:134
+#: motors/vc_templates/stm_auto_loan_calculator.php:162
+#: motors/vc_templates/stm_single_car_calculator.php:139
+msgid "Please fill Down Payment field"
+msgstr ""
+
+#: motors/partials/single-car/car-calculator.php:140
+#: motors/vc_templates/stm_auto_loan_calculator.php:168
+#: motors/vc_templates/stm_single_car_calculator.php:145
+msgid "Down payment can not be more than vehicle price"
+msgstr ""
+
+#: motors/partials/single-car/car-data.php:42
+#: motors/vc_templates/stm_sell_a_car.php:16
+#: motors/vc_templates/stm_single_car_data.php:48
+msgid "Vin"
+msgstr ""
+
+#: motors/partials/single-car/car-gallery.php:53
+#: motors/partials/single-car/car-gallery.php:90
+#: motors/vc_templates/stm_single_car_gallery.php:55
+#: motors/vc_templates/stm_single_car_gallery.php:92
+msgid "Video preview"
+msgstr ""
+
+#: motors/partials/single-car/car-gallery.php:66
+#: motors/partials/single-car/car-gallery.php:101
+#: motors/partials/single-car-listing/car-gallery.php:130
+#: motors/partials/single-car-listing/car-gallery.php:154
+#: motors/vc_templates/stm_single_car_gallery.php:68
+#: motors/vc_templates/stm_single_car_gallery.php:103
+msgid "full"
+msgstr ""
+
+#: motors/partials/single-car/car-mpg.php:12
+#: motors/vc_templates/stm_single_car_mpg.php:16
+msgid "city mpg"
+msgstr ""
+
+#: motors/partials/single-car/car-mpg.php:19
+#: motors/vc_templates/stm_single_car_mpg.php:23
+msgid "hwy mpg"
+msgstr ""
+
+#: motors/partials/single-car-listing/car-data.php:62
+#: motors/partials/single-car-listing/car-data.php:71
+msgid "Stock id"
+msgstr ""
+
+#: motors/partials/single-car-listing/car-data.php:83
+#: motors/partials/single-car-listing/car-data.php:93
+msgid "VIN:"
+msgstr ""
+
+#: motors/partials/single-car-listing/car-dealer.php:63
+#: motors/partials/single-car-listing/car-dealer.php:102
+#: motors/partials/user/private/user.php:112
+#: motors/partials/user/private/mobile/user-profile.php:108
+msgid "Seller Email"
+msgstr ""
+
+#: motors/partials/single-car-listing/car-main.php:17
+#: motors/vc_templates/stm_add_a_car.php:158
+#: motors/vc_templates/stm_add_a_car.php:479
+msgid "Car Details"
+msgstr ""
+
+#: motors/partials/user/dealer-inventory.php:27
+msgid "Dealer Inventory"
+msgstr ""
+
+#: motors/partials/user/dealer-inventory.php:40
+#: motors/partials/user/private/user-inventory.php:17
+msgid "Sort by"
+msgstr ""
+
+#: motors/partials/user/dealer-inventory.php:63
+#: motors/partials/user/dealer-inventory.php:79
+#: motors/partials/user/dealer-reviews.php:87
+#: motors/vc_templates/stm_dealer_list.php:134
+msgid "Show more"
+msgstr ""
+
+#: motors/partials/user/dealer-inventory.php:86
+#: motors/partials/user/user-public-profile.php:68
+msgid "No Inventory added yet."
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:65
+msgid "Sales Phone"
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:84
+msgid "View Website"
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:109
+msgid "Seller's Notes"
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:120
+msgid "Dealer's Inventory"
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:126
+msgid "Dealer Reviews"
+msgstr ""
+
+#: motors/partials/user/dealer-public-profile.php:132
+msgid "Write a review"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:9
+msgid "Dealer Rating"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:12
+msgid "Average rating"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:24
+msgid "Based on"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:24
+msgid "ratings"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:41
+#: motors/partials/user/dealer-single-review.php:81
+#: motors/partials/user/dealer-write-review.php:54
+msgid "out of"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:49
+msgid "Recommend"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:60
+#: motors/partials/user/dealer-single-review.php:113
+#: motors/partials/user/dealer-write-review.php:68
+#: motors/vc_templates/stm_sell_a_car.php:286
+#: motors/vc_templates/stm_sell_a_car.php:287
+msgid "No"
+msgstr ""
+
+#: motors/partials/user/dealer-reviews.php:92
+#: motors/partials/user/dealer-reviews.php:96
+msgid "Be the first to write a review!"
+msgstr ""
+
+#: motors/partials/user/dealer-single-review.php:104
+msgid "By"
+msgstr ""
+
+#: motors/partials/user/dealer-single-review.php:108
+msgid "Would I recommend this Dealer:"
+msgstr ""
+
+#: motors/partials/user/dealer-single-review.php:119
+msgid "Report"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:13
+msgid ""
+"You have already added review. If you leave another one review, previous "
+"will be deleted."
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:24
+msgid "Example: Great Service, clean facilities, etc"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:27
+#: motors/woocommerce/single-product-reviews.php:93
+msgid "Your Review"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:28
+msgid "Enter Your Review"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:33
+msgid "I am not a dealer, and I am not employed by a dealership."
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:36
+#: motors/partials/user/dealer-write-review.php:75
+msgid "Submit review"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:48
+msgid "rate_"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:61
+msgid "Would you recommend this dealer?"
+msgstr ""
+
+#: motors/partials/user/dealer-write-review.php:169
+msgid "to leave a review"
+msgstr ""
+
+#: motors/partials/user/listing-list-user-info.php:52
+msgid "Personal Seller"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:33
+msgid "My items"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:34
+msgid "Favorites"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:37
+#: motors/partials/user/private/mobile/dealer-profile.php:105
+#: motors/partials/user/private/mobile/user-profile.php:121
+msgid "Logout"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:48
+#: motors/partials/user/private/mobile/user.php:8
+#: motors/vc_templates/stm_add_a_car.php:415
+#: motors/vc_templates/stm_add_a_car.php:859
+#: motors/vc_templates/stm_login_register.php:22
+#: motors/vc_templates/stm_login_register.php:48
+msgid "Login or E-mail"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:49
+#: motors/partials/user/private/mobile/user.php:9
+#: motors/vc_templates/stm_add_a_car.php:416
+#: motors/vc_templates/stm_add_a_car.php:860
+#: motors/vc_templates/stm_login_register.php:23
+#: motors/vc_templates/stm_login_register.php:50
+msgid "Enter login or E-mail"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:53
+#: motors/partials/user/private/mobile/user.php:13
+#: motors/vc_templates/stm_add_a_car.php:420
+#: motors/vc_templates/stm_add_a_car.php:864
+#: motors/vc_templates/stm_login_register.php:27
+#: motors/woocommerce/myaccount/form-login.php:38
+#: motors/woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:54
+#: motors/partials/user/private/mobile/user.php:14
+#: motors/vc_templates/stm_add_a_car.php:421
+#: motors/vc_templates/stm_add_a_car.php:865
+#: motors/vc_templates/stm_login_register.php:28
+msgid "Enter password"
+msgstr ""
+
+#: motors/partials/user/user-dropdown.php:60
+#: motors/partials/user/private/mobile/user.php:20
+#: motors/vc_templates/stm_add_a_car.php:427
+#: motors/vc_templates/stm_add_a_car.php:871
+#: motors/vc_templates/stm_login_register.php:34
+#: motors/woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: motors/partials/user/user-public-profile.php:43
+msgid "Seller email"
+msgstr ""
+
+#: motors/partials/user/user-public-profile.php:52
+msgid "Seller phone"
+msgstr ""
+
+#: motors/partials/user/user-public-profile.php:61
+msgid "Sellers Inventory"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:12
+#: motors/partials/user/private/become-dealer.php:17
+#: motors/partials/user/private/become-dealer.php:41
+#: motors/partials/user/private/become-dealer.php:111
+msgid "Your review is under submission"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:20
+msgid "Your review is under submission. Paypal status - Completed"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:22
+msgid "Your review is under submission. Paypal status - Pending"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:24
+msgid "Your review is under submission. Redirecting to Paypal"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:65
+msgid "Company license"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:117
+msgid "Logo is required field"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:184
+#: motors/partials/user/private/dealer-settings.php:138
+#: motors/partials/user/private/dealer-settings.php:218
+msgid "Please load image with right extension (jpg, jpeg, png)"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:193
+msgid "Request for a dealer"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:195
+msgid "User Login:"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:204
+#: motors/partials/user/private/dealer-settings.php:312
+#: motors/partials/user/private/user-settings.php:213
+msgid "Account data saved. Reloading the page."
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:218
+#: motors/partials/user/private/user.php:76
+#: motors/partials/user/private/mobile/user-profile.php:70
+msgid "Become a dealer"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:236
+msgid "Upload your company logo*"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:239
+#: motors/partials/user/private/dealer-settings.php:358
+#: motors/partials/user/private/dealer-settings.php:379
+#: motors/partials/user/private/user-settings.php:268
+msgid "Choose file"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:241
+#: motors/partials/user/private/become-dealer.php:327
+#: motors/partials/user/private/dealer-settings.php:359
+#: motors/partials/user/private/dealer-settings.php:380
+#: motors/partials/user/private/dealer-settings.php:596
+#: motors/partials/user/private/user-settings.php:269
+#: motors/partials/user/private/user-settings.php:416
+msgid "No File Chosen"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:245
+#: motors/partials/user/private/dealer-settings.php:363
+msgid "JPEG or PNG minimal 236x60px"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:252
+#: motors/partials/user/private/dealer-settings.php:392
+#: motors/partials/user/private/user-settings.php:280
+msgid "Main Information"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:258
+#: motors/partials/user/private/dealer-settings.php:446
+msgid "Company name*"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:261
+#: motors/partials/user/private/dealer-settings.php:449
+msgid "Enter Company Name"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:267
+#: motors/partials/user/private/dealer-settings.php:455
+msgid "License number*"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:269
+#: motors/partials/user/private/dealer-settings.php:457
+msgid "Enter License number"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:277
+#: motors/partials/user/private/dealer-settings.php:465
+msgid "Location*"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:281
+#: motors/partials/user/private/dealer-settings.php:469
+msgid "Enter Your location"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:295
+#: motors/partials/user/private/dealer-settings.php:483
+msgid "Enter Your sales hours"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:302
+#: motors/partials/user/private/dealer-settings.php:490
+msgid "Notes"
+msgstr ""
+
+#: motors/partials/user/private/become-dealer.php:311
+msgid "Submit for review"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:7
+#: motors/partials/user/private/user-settings.php:8
+msgid "Error, try again"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:56
+#: motors/partials/user/private/user-settings.php:45
+msgid "Confirmation password is wrong"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:171
+msgid ""
+"Seems like image too small, please load image with minimal dimensions 500x282"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:241
+#: motors/partials/user/private/user-settings.php:171
+msgid "New password not saved, because of wrong confirmation."
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:338
+#: motors/partials/user/private/dealer.php:82
+#: motors/partials/user/private/user-settings.php:239
+#: motors/partials/user/private/user.php:97
+#: motors/partials/user/private/mobile/dealer-profile.php:75
+#: motors/partials/user/private/mobile/user-profile.php:91
+msgid "Profile Settings"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:356
+msgid "Upload new logo"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:377
+msgid "Upload Dealer Image"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:384
+msgid "JPEG or PNG minimal 500x282"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:398
+msgid "Company Website URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:399
+msgid "Enter Website URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:406
+#: motors/partials/user/private/user-settings.php:286
+#: motors/vc_templates/stm_sell_a_car.php:306
+msgid "First name"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:407
+#: motors/partials/user/private/user-settings.php:287
+msgid "Enter First Name"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:412
+#: motors/partials/user/private/user-settings.php:292
+#: motors/vc_templates/stm_sell_a_car.php:10
+#: motors/vc_templates/stm_sell_a_car.php:312
+msgid "Last name"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:413
+#: motors/partials/user/private/user-settings.php:293
+msgid "Enter Last Name"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:426
+#: motors/partials/user/private/user-settings.php:306
+msgid "Email*"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:430
+#: motors/partials/user/private/user-settings.php:310
+msgid "Show Email Address on my Profile"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:440
+msgid "Dealer Information"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:501
+#: motors/partials/user/private/user-settings.php:321
+msgid "Change password"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:507
+#: motors/partials/user/private/user-settings.php:327
+msgid "New Password"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:513
+#: motors/partials/user/private/user-settings.php:333
+msgid "Re-enter New Password"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:524
+#: motors/partials/user/private/user-settings.php:344
+msgid "Your Social Networks"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:534
+#: motors/partials/user/private/user-settings.php:354
+msgid "Enter your Facebook profile URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:543
+#: motors/partials/user/private/user-settings.php:363
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:554
+#: motors/partials/user/private/user-settings.php:374
+msgid "Enter Linkedin Public profile URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:563
+#: motors/partials/user/private/user-settings.php:383
+msgid "Enter Youtube channel URL"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:572
+#: motors/partials/user/private/user-settings.php:392
+msgid "Enter your Current Password to confirm changes"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:575
+#: motors/partials/user/private/user-settings.php:395
+msgid "Current Password"
+msgstr ""
+
+#: motors/partials/user/private/dealer-settings.php:577
+#: motors/partials/user/private/user-settings.php:397
+msgid "Save Changes"
+msgstr ""
+
+#: motors/partials/user/private/dealer.php:68
+#: motors/partials/user/private/user-inventory.php:14
+#: motors/partials/user/private/user.php:83
+#: motors/partials/user/private/mobile/dealer-profile.php:61
+#: motors/partials/user/private/mobile/user-profile.php:77
+msgid "My Inventory"
+msgstr ""
+
+#: motors/partials/user/private/dealer.php:75
+#: motors/partials/user/private/user-favourite.php:13
+#: motors/partials/user/private/user.php:90
+#: motors/partials/user/private/mobile/dealer-profile.php:68
+#: motors/partials/user/private/mobile/user-profile.php:84
+msgid "My Favorites"
+msgstr ""
+
+#: motors/partials/user/private/dealer.php:90
+#: motors/partials/user/private/mobile/dealer-profile.php:84
+msgid "Dealer Contact Phone"
+msgstr ""
+
+#: motors/partials/user/private/dealer.php:97
+#: motors/partials/user/private/mobile/dealer-profile.php:92
+msgid "Dealer Email"
+msgstr ""
+
+#: motors/partials/user/private/dealer.php:127
+#: motors/partials/user/private/user.php:144
+msgid "No Inventory yet"
+msgstr ""
+
+#: motors/partials/user/private/password-recovery.php:22
+msgid "Password changed"
+msgstr ""
+
+#: motors/partials/user/private/password-recovery.php:30
+msgid "Password Recovery"
+msgstr ""
+
+#: motors/partials/user/private/password-recovery.php:35
+msgid "New password"
+msgstr ""
+
+#: motors/partials/user/private/password-recovery.php:36
+msgid "Enter new password"
+msgstr ""
+
+#: motors/partials/user/private/password-recovery.php:37
+msgid "Set new password"
+msgstr ""
+
+#: motors/partials/user/private/user-favourite.php:62
+#: motors/partials/user/private/user-inventory.php:21
+msgid "Disabled"
+msgstr ""
+
+#: motors/partials/user/private/user-favourite.php:68
+msgid "Under review"
+msgstr ""
+
+#: motors/partials/user/private/user-favourite.php:96
+msgid "the Item was removed"
+msgstr ""
+
+#: motors/partials/user/private/user-favourite.php:105
+#: motors/partials/user/private/user-favourite.php:111
+msgid "You have not added favorites yet"
+msgstr ""
+
+#: motors/partials/user/private/user-inventory.php:9
+#: motors/woocommerce/myaccount/my-orders.php:94
+msgid "Cancel"
+msgstr ""
+
+#: motors/partials/user/private/user-inventory.php:19
+msgid "All"
+msgstr ""
+
+#: motors/partials/user/private/user-settings.php:128
+msgid "Please load image with right extension (jpg, jpeg, png and gif)"
+msgstr ""
+
+#: motors/partials/user/private/user-settings.php:266
+msgid "Upload new avatar"
+msgstr ""
+
+#: motors/partials/user/private/user-settings.php:273
+msgid "JPEG or PNG minimal 160x160px"
+msgstr ""
+
+#: motors/partials/user/private/user.php:105
+#: motors/partials/user/private/mobile/user-profile.php:100
+msgid "Seller Contact Phone"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:87
+#: motors/vc_templates/stm_posts_available.php:13
+msgid "Posts Available"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:88
+msgid ""
+"You ended the limit of free classified ads. Please select one of the "
+"following"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:91
+msgid "Become a Dealer"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:93
+msgid "My inventory"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:159
+#: motors/vc_templates/stm_add_a_car.php:251
+#: motors/vc_templates/stm_add_a_car.php:259
+#: motors/vc_templates/stm_add_a_car.php:301
+#: motors/vc_templates/stm_add_a_car.php:330
+#: motors/vc_templates/stm_add_a_car.php:370
+#: motors/vc_templates/stm_add_a_car.php:480
+#: motors/vc_templates/stm_add_a_car.php:589
+#: motors/vc_templates/stm_add_a_car.php:597
+#: motors/vc_templates/stm_add_a_car.php:698
+#: motors/vc_templates/stm_add_a_car.php:748
+#: motors/vc_templates/stm_add_a_car.php:808
+msgid "step"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:250
+#: motors/vc_templates/stm_add_a_car.php:588
+msgid "Select Your Car Features"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:258
+#: motors/vc_templates/stm_add_a_car.php:596
+msgid "Upload photo"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:279
+#: motors/vc_templates/stm_add_a_car.php:628
+msgid "Choose files"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:300
+#: motors/vc_templates/stm_add_a_car.php:697
+msgid "Add Videos"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:309
+#: motors/vc_templates/stm_add_a_car.php:707
+msgid "Video link"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:320
+#: motors/vc_templates/stm_add_a_car.php:738
+msgid ""
+"If you don't have the videos handy, don't worry. You can add or edit them "
+"after you complete your ad using the \"Manage Your Ad\" page."
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:329
+#: motors/vc_templates/stm_add_a_car.php:354
+#: motors/vc_templates/stm_add_a_car.php:747
+#: motors/vc_templates/stm_add_a_car.php:792
+msgid "Enter Seller's notes"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:339
+#: motors/vc_templates/stm_add_a_car.php:757
+msgid "Select all the phrases that apply to your vehicle."
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:360
+#: motors/vc_templates/stm_add_a_car.php:798
+msgid "Add the Template Phrases"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:369
+#: motors/vc_templates/stm_add_a_car.php:807
+msgid "Set Your Asking Price"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:439
+msgid "Submit listing"
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:453
+msgid "Please login."
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:463
+msgid "You are not the owner of this car."
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:467
+msgid "No car to edit."
+msgstr ""
+
+#: motors/vc_templates/stm_add_a_car.php:883
+msgid "Edit Ads"
+msgstr ""
+
+#: motors/vc_templates/stm_call_to_action.php:47
+msgid "Call to action"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_similar.php:10
+msgid "Similar Listing"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_tabbed.php:83
+msgid "Search inventory"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_tabbed.php:148
+#: motors/vc_templates/stm_car_listing_tabbed.php:195
+#: motors/vc_templates/stm_listings_tabs_2.php:107
+msgid "available"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_tabbed.php:169
+msgid "Load more"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_tabbed.php:180
+#: motors/vc_templates/stm_listings_tabs_2.php:120
+#: motors/vc_templates/stm_listings_tabs_2.php:158
+#: motors/vc_templates/stm_listings_tabs_2.php:192
+#: motors/vc_templates/stm_modern_filter.php:310
+msgid "Show all"
+msgstr ""
+
+#: motors/vc_templates/stm_car_listing_tabbed.php:233
+msgid "Reset search fields"
+msgstr ""
+
+#: motors/vc_templates/stm_carousel.php:54
+#: motors/vc_templates/stm_media_library.php:36
+msgid "Watch in popup"
+msgstr ""
+
+#: motors/vc_templates/stm_compare_cars.php:198
+msgid "Please, add cars to compare"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:25
+msgid "Cars number"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:26
+msgid "Popularity"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:35
+msgid "Find Dealer"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:48
+#: motors/vc_templates/stm_listing_search.php:135
+msgid "Choose"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:73
+msgid "Enter a location"
+msgstr ""
+
+#: motors/vc_templates/stm_dealer_list.php:137
+msgid "No dealers on your search parameters"
+msgstr ""
+
+#: motors/vc_templates/stm_login_register.php:17
+msgid "Sign In"
+msgstr ""
+
+#: motors/vc_templates/stm_login_register.php:38
+msgid "Forgot Password"
+msgstr ""
+
+#: motors/vc_templates/stm_login_register.php:51
+msgid "Send password"
+msgstr ""
+
+#: motors/vc_templates/stm_media_library.php:37
+msgid "Media gallery image"
+msgstr ""
+
+#: motors/vc_templates/stm_modern_filter.php:103
+msgid "Brand"
+msgstr ""
+
+#: motors/vc_templates/stm_modern_filter.php:120
+msgid "View all"
+msgstr ""
+
+#: motors/vc_templates/stm_modern_filter.php:249
+msgid "Vehicles available"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:7
+#: motors/vc_templates/stm_sell_a_car.php:137
+msgid "Make"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:8
+#: motors/vc_templates/stm_sell_a_car.php:143
+msgid "Model"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:9
+msgid "User details<br/>First name"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:14
+#: motors/vc_templates/stm_sell_a_car.php:155
+msgid "Transmission"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:15
+#: motors/vc_templates/stm_sell_a_car.php:161
+msgid "Mileage"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:17
+#: motors/vc_templates/stm_sell_a_car.php:204
+msgid "Exterior color"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:18
+#: motors/vc_templates/stm_sell_a_car.php:210
+msgid "Interior color"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:19
+#: motors/vc_templates/stm_sell_a_car.php:216
+msgid "Owner"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:20
+msgid "Exterior condition"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:21
+msgid "Interior condition"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:22
+msgid "Accident"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:23
+#: motors/vc_templates/stm_sell_a_car.php:149
+msgid "Year"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:24
+msgid "Video url"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:25
+#: motors/vc_templates/stm_sell_a_car.php:330
+msgid "Comments"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:40
+msgid "Please fill"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:40
+msgid "field"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:49
+msgid "Your E-mail address is invalid"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:56
+msgid "Your Phone is invalid"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:71
+msgid "Uploaded images"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:84
+msgid "Sell a car request"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:108
+msgid "Car Information"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:109
+msgid "Add tour vehicle details"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:115
+msgid "Vehicle Condition"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:116
+msgid "Add your vehicle details"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:122
+msgid "Contact details"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:123
+msgid "Your contact details"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:179
+msgid "Upload your car Photos"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:182
+#: motors/vc_templates/stm_sell_a_car.php:393
+msgid "Choose file..."
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:190
+msgid "Provide a hosted video url of your car"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:223
+#: motors/vc_templates/stm_sell_a_car.php:296
+msgid "Save and continue"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:232
+msgid "What is the Exterior Condition?"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:234
+#: motors/vc_templates/stm_sell_a_car.php:235
+#: motors/vc_templates/stm_sell_a_car.php:258
+#: motors/vc_templates/stm_sell_a_car.php:259
+msgid "Extra clean"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:238
+#: motors/vc_templates/stm_sell_a_car.php:239
+#: motors/vc_templates/stm_sell_a_car.php:262
+#: motors/vc_templates/stm_sell_a_car.php:263
+msgid "Clean"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:242
+#: motors/vc_templates/stm_sell_a_car.php:243
+#: motors/vc_templates/stm_sell_a_car.php:266
+#: motors/vc_templates/stm_sell_a_car.php:267
+#: motors/woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:246
+#: motors/vc_templates/stm_sell_a_car.php:247
+#: motors/vc_templates/stm_sell_a_car.php:270
+#: motors/vc_templates/stm_sell_a_car.php:271
+msgid "Below Average"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:250
+#: motors/vc_templates/stm_sell_a_car.php:251
+#: motors/vc_templates/stm_sell_a_car.php:274
+#: motors/vc_templates/stm_sell_a_car.php:275
+#: motors/vc_templates/stm_sell_a_car.php:290
+#: motors/vc_templates/stm_sell_a_car.php:291
+msgid "I don't know"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:256
+msgid "What is the Interior Condition?"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:280
+msgid "Has vehicle been in accident"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:318
+msgid "Email Address"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:338
+msgid "Save and finish"
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:341
+msgid ""
+"By submitting this form, you will be requesting trade-in value at no "
+"obligation and \n"
+"will be contacted within 48 hours by a sales representative."
+msgstr ""
+
+#: motors/vc_templates/stm_sell_a_car.php:362
+msgid "Mail successfully sent"
+msgstr ""
+
+#: motors/vc_templates/stm_special_offers.php:32
+msgid "all"
+msgstr ""
+
+#: motors/vc_templates/stm_special_offers.php:33
+msgid "specials"
+msgstr ""
+
+#: motors/vc_templates/stm_special_offers.php:52
+msgid "Watch full information about"
+msgstr ""
+
+#: motors/vc_templates/stm_working_days.php:32
+msgid "Closed"
+msgstr ""
+
+#: motors/vc_templates/vc_tabs.php:60
+msgid "Previous tab"
+msgstr ""
+
+#: motors/vc_templates/vc_tabs.php:60
+msgid "Next tab"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr ""
+
+#: motors/woocommerce/single-product-reviews.php:103
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: motors/woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: motors/woocommerce/cart/cart-totals.php:33
+#: motors/woocommerce/checkout/review-order.php:54
+msgid "Subtotal"
+msgstr ""
+
+#: motors/woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: motors/woocommerce/cart/cart-totals.php:87
+#: motors/woocommerce/cart/cart.php:28
+#: motors/woocommerce/checkout/review-order.php:26
+#: motors/woocommerce/checkout/review-order.php:101
+#: motors/woocommerce/myaccount/my-orders.php:28
+#: motors/woocommerce/myaccount/my-orders.php:54
+#: motors/woocommerce/myaccount/my-orders.php:77
+#: motors/woocommerce/order/order-details.php:36
+msgid "Total"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:25
+msgid "Product Name"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:67
+msgid "Available on backorder"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:103
+msgid "Remove this item"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: motors/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: motors/woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: motors/woocommerce/checkout/form-checkout.php:64
+msgid "Your order"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: motors/woocommerce/checkout/form-shipping.php:58
+#: motors/woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:29
+msgid "payment"
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:44
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:46
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:57
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:57
+msgid "Update totals"
+msgstr ""
+
+#: motors/woocommerce/checkout/payment.php:67
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: motors/woocommerce/checkout/review-order.php:25
+#: motors/woocommerce/order/order-details.php:35
+msgid "Product"
+msgstr ""
+
+#: motors/woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: motors/woocommerce/myaccount/form-login.php:51
+msgid "Lost your password?"
+msgstr ""
+
+#: motors/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: motors/woocommerce/myaccount/form-login.php:80
+msgid "Email address"
+msgstr ""
+
+#: motors/woocommerce/myaccount/form-login.php:92
+msgid "Anti-spam"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:19
+#: motors/woocommerce/myaccount/my-address.php:25
+#: motors/woocommerce/order/order-details-customer.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:20
+#: motors/woocommerce/order/order-details-customer.php:68
+msgid "Shipping Address"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:37
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-address.php:92
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-orders.php:25
+#: motors/woocommerce/myaccount/my-orders.php:51
+msgid "Order"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-orders.php:45
+msgid "Recent Orders"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-orders.php:66
+msgid "Order Number"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-orders.php:87
+msgid "Pay"
+msgstr ""
+
+#: motors/woocommerce/myaccount/my-orders.php:100
+msgid "View"
+msgstr ""
+
+#: motors/woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: motors/woocommerce/myaccount/view-order.php:24
+#: motors/woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: motors/woocommerce/myaccount/view-order.php:30
+#: motors/woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: motors/woocommerce/notices/error.php:21
+msgid "Error"
+msgstr ""
+
+#: motors/woocommerce/notices/notice.php:21
+msgid "Informational"
+msgstr ""
+
+#: motors/woocommerce/notices/success.php:21
+msgid "Success"
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: motors/woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: motors/woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: motors/woocommerce/order/order-details-customer.php:18
+msgid "Customer Details"
+msgstr ""
+
+#: motors/woocommerce/order/order-details-customer.php:23
+msgid "Note:"
+msgstr ""
+
+#: motors/woocommerce/order/order-details-customer.php:30
+msgid "Email:"
+msgstr ""
+
+#: motors/woocommerce/order/order-details-customer.php:37
+msgid "Telephone:"
+msgstr ""
+
+#: motors/woocommerce/order/order-details.php:31
+msgid "Order Details"
+msgstr ""
+
+#: motors/woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: motors/woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: motors/woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: motors/woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: motors/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: motors/woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

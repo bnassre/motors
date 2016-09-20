@@ -1,0 +1,373 @@
+.listing_categories {
+   margin-bottom: 25px;
+}
+
+.stm_close_edit_item {
+   margin-left: 10px !important;
+   font-style: normal;
+}
+
+.stm_edit_item_wrap {
+   display: none;
+}
+
+.ui-sortable-helper {
+   width: 100%;
+}
+
+.ui-sortable-placeholder {
+   background-color: #dcdcdc;
+}
+
+.stm-ui-sortable tr:hover {
+   cursor: move;
+}
+
+.stm_theme_icon_font_table {
+   display: none;
+}
+
+.stm_theme_icon_font_table td:hover {
+   cursor: pointer;
+}
+
+.stm_theme_cat_chosen_icon_edit_preview i,
+.stm_theme_cat_chosen_icon_preview i{
+   display: inline-block;
+   margin: 20px auto;
+   padding: 5px;
+   font-size: 65px;
+   background-color: #000;
+   color: #fff;
+}
+
+.stm_theme_pick_font {
+   margin: 15px 0 !important;
+}
+
+.stm_edit_item_wrap label,
+.stm-new-filter-category label {
+   display: inline-block;
+}
+
+.form-wrap .form-field.stm-modern-filter-unit {
+   padding-left: 20px;
+}
+
+.stm-csv-import-available-tags {
+   width: 16%;
+   float: left;
+}
+
+.stm-csv-import-needed-tags {
+   width: 80%;
+   float: left;
+}
+
+.needed-tag-placeholder {
+   display: none;
+   height: 30px;
+   border: 1px dashed black;
+}
+
+
+
+
+
+
+.source {
+   max-width: 100%;
+   width: 30%;
+   float: left;
+   margin-top: 18px;
+}
+
+.target {
+   max-width: 100%;
+   width: 60%;
+   float: left;
+   margin-left: 20px;
+}
+
+.target:after {
+   clear: both;
+   display: table;
+   content: '';
+}
+
+.target .target-unit {
+   float: left;
+   width: 30%;
+   padding: 0 10px;
+}
+
+.item {
+   height:20px;
+   margin:5px 0 8px;
+   padding:5px;
+   border:1px solid gray;
+   background-color: #22b7d2;
+   position: relative;
+}
+
+.item:hover {
+   cursor: move;
+}
+
+.item .closer {
+   position: absolute;
+   right: 5px;
+   top: 6px;
+   font: bold 14px arial;
+   color: #666;
+   padding: 1px 3px;
+   line-height: 1;
+   cursor: pointer;
+   display: none;
+}
+
+.item .closer:hover {
+   color: #000;
+}
+
+.empty {
+   height: 30px;
+   margin: 5px 0 20px;
+   background: #eee;
+   border: 1px dashed #999;
+   padding-bottom: 2px;
+}
+
+.empty .item {
+   margin: 0;
+}
+
+.empty .item .closer {
+   display: block;
+}
+
+.highlight {
+   border: 1px solid red;
+   background: #fff;
+}
+
+.highlight .item {
+   opacity: 0.3;
+}
+
+.ui-draggable-dragging {
+   z-index: 99;
+   opacity: 1 !important;
+}
+
+.white {
+   background-color: #fff !important;
+}
+
+.import_details {
+   display: none;
+}
+
+.import_details iframe{
+   margin-top: 20px;
+   width: 70%;
+   height: 180px;
+   background-color: #22b7d2;
+}
+
+.danger {
+   color: red;
+}
+
+
+/* Automanager */
+.stm-automanager-xml {
+   padding: 45px 0 20px;
+}
+
+.stm-automanager-xml.first-step footer .btn {
+   display: none;
+}
+
+.btn,
+.btn-large {
+   color: #fff !important;
+}
+
+.mg-bt-20 {
+   margin-bottom: 20px;
+}
+
+.pd-bt-15 {
+   padding-bottom: 15px;
+}
+
+.stm-preloader-file {
+   display: inline-block;
+   margin: 9px 0 0 20px;
+   vertical-align: top;
+}
+
+.progress .determinate {
+   width: 25%;
+}
+
+#stm_automanager_third_step,
+#stm_automanager_second_step {
+   display: none;
+}
+
+.stm-automanager-xml footer {
+   padding: 20px 0 0;
+}
+
+.stm-automanager-xml .stm_theme_fields .input-field {
+   margin-bottom: 25px;
+}
+
+.stm-automanager-xml .stm_theme_fields .input-field label {
+   left: 0 !important;
+}
+
+.stm-automanager-xml .stm_theme_fields .input-field .select-wrapper {
+   margin-bottom: 50px;
+}
+
+.xml_badge {
+   display: inline-block;
+   border-radius: 4px;
+   margin-bottom: 10px;
+   background-color: #26a69a;
+   color: #fff !important;
+   padding: 7px;
+   cursor: move;
+}
+
+.xml_badge .ui-draggable-dragging {
+   background-color: transparent;
+}
+
+.stm-step-three-preloader,
+.stm-step-two-preloader,
+.stm-proceed-step-four,
+.stm-proceed-step-three {
+   display: none;
+}
+
+.stm-back {
+   float: left;
+}
+
+.stm-automanager-xml.third-step .stm-proceed-step-four,
+.stm-automanager-xml.second-step .stm-proceed-step-three {
+   display: block;
+   float: right;
+}
+
+.stm-automanager-xml.third-step .stm-step-three-preloader,
+.stm-automanager-xml.second-step .stm-step-two-preloader {
+   display: block;
+   float: right;
+   margin-right: 25px;
+}
+
+.checkbox-field {
+   margin-bottom: 25px;
+}
+
+.checkbox-field > label {
+   font-size: 15px;
+   line-height: 18px;
+}
+
+.stm-automanager-xml footer.clear:after {
+   content: '';
+   display: block;
+   clear: both;
+}
+
+#stm_xml_import_automanager {
+   display: none;
+   width: 80%;
+   height: 200px;
+   padding: 25px 15px;
+   background-color: #26a69a;
+}
+
+#stm_automanager_fourth_step {
+   display: none;
+}
+
+.stm-automanager-xml.third-step .update_now_test {
+   display: block;
+}
+
+.pulsate {
+   border-radius: 15px;
+   box-shadow: 0 0 0 rgba(38,166,154, 0.8);
+   animation: pulse 2s infinite;
+}
+
+.hovered {
+   border-color: #66bb6a !important;
+}
+
+@-webkit-keyframes pulse {
+   0% {
+      -webkit-box-shadow: 0 0 0 0 rgba(38,166,154, 0.8);
+   }
+   70% {
+      -webkit-box-shadow: 0 0 0 10px rgba(38,166,154, 0);
+   }
+   100% {
+      -webkit-box-shadow: 0 0 0 0 rgba(38,166,154, 0);
+   }
+}
+@keyframes pulse {
+   0% {
+      -moz-box-shadow: 0 0 0 0 rgba(38,166,154, 0.8);
+      box-shadow: 0 0 0 0 rgba(38,166,154, 0.4);
+   }
+   70% {
+      -moz-box-shadow: 0 0 0 10px rgba(38,166,154, 0);
+      box-shadow: 0 0 0 10px rgba(38,166,154, 0);
+   }
+   100% {
+      -moz-box-shadow: 0 0 0 0 rgba(38,166,154, 0);
+      box-shadow: 0 0 0 0 rgba(38,166,154, 0);
+   }
+}
+
+.cron-settings {
+   margin-bottom: 70px;
+}
+
+.stm-automanager-xml.fourth-step .stm-back {
+   display: none;
+}
+
+.stm-automanager-xml {
+   padding-top: 20px;
+}
+
+.stm_automanager_notification {
+   margin-bottom: 20px !important;
+   padding: 15px 20px 10px 30px !important;
+   border-left-color: #26a69a !important;
+}
+
+.stm_automanager_notification strong {
+   font-weight: 700;
+}
+
+.single-add-to-compare.single-add-to-compare-visible {
+   z-index: 999;
+}
+
+.listing-list-loop .content .meta-middle {
+   margin-bottom: 14px;
+}
+
+.listing-list-loop .content .meta-middle .meta-middle-unit {
+   margin-bottom: 13px;
+}

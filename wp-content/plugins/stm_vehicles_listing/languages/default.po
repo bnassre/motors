@@ -1,0 +1,709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-04 10:50+0500\n"
+"PO-Revision-Date: 2016-03-04 10:50+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: /Users/apple/Desktop\n"
+"X-Poedit-SearchPath-0: stm_vehicles_listing\n"
+
+#: stm_vehicles_listing/includes/category-image.php:20
+#: stm_vehicles_listing/includes/category-image.php:71
+msgid "Modern Filter Image"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-ajax.php:41
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:47
+#: stm_vehicles_listing/includes/xml-importer.php:184
+msgid "Post title is required field"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-ajax.php:47
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:54
+#: stm_vehicles_listing/includes/xml-importer.php:190
+msgid "Post content is required field"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-ajax.php:53
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:61
+#: stm_vehicles_listing/includes/xml-importer.php:196
+msgid "Post excerpt is required field"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:121
+msgid "Downloading featured image..."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:128
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:150
+msgid "Done."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:137
+msgid "Downloading gallery..."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:155
+msgid "item(s) added."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:168
+msgid "Import done."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer-iframe.php:176
+msgid "Starting..."
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:6
+#: stm_vehicles_listing/includes/csv-importer.php:7
+#: stm_vehicles_listing/includes/csv-importer.php:63
+msgid "Import from CSV"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:40
+msgid "Please, upload file with .csv format"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:68
+msgid "Load CSV from your local files"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:70
+#: stm_vehicles_listing/includes/xml-importer.php:94
+msgid "Listing file"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:72
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:352
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:392
+msgid "Continue"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:104
+#: stm_vehicles_listing/includes/xml-importer.php:132
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:337
+msgid "Price"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:109
+#: stm_vehicles_listing/includes/listing_metaboxes.php:16
+#: stm_vehicles_listing/includes/xml-importer.php:137
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:343
+msgid "Sale Price"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:125
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:56
+msgid "Featured Image"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:132
+msgid "Gallery"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:140
+#: stm_vehicles_listing/includes/xml-importer.php:154
+msgid "Import"
+msgstr ""
+
+#: stm_vehicles_listing/includes/csv-importer.php:150
+msgid "Please wait for the notice \"Import done.\""
+msgstr ""
+
+#: stm_vehicles_listing/includes/listing_metaboxes.php:12
+msgid "Regular Price"
+msgstr ""
+
+#: stm_vehicles_listing/includes/listing_metaboxes.php:60
+msgid "Car Options"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:6
+#: stm_vehicles_listing/includes/options.php:7
+msgid "Listing Categories"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:263
+msgid "Vehicle listing Settings"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:271
+msgid "Singular"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:274
+msgid "Plural"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:277
+#: stm_vehicles_listing/includes/options.php:585
+msgid "Slug"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:280
+msgid "Numeric"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:283
+msgid "Manage"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:286
+msgid "Edit"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:289
+msgid "Delete"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:303
+msgid "No"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:305
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:386
+msgid "Yes"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:394
+msgid "New Singular name"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:402
+msgid "New Plural name"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:410
+#: stm_vehicles_listing/includes/options.php:593
+msgid "Number field"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:418
+#: stm_vehicles_listing/includes/options.php:601
+msgid "Use on single listing page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:426
+msgid "Use on car listing page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:434
+msgid "Use on car listing archive page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:442
+#: stm_vehicles_listing/includes/options.php:625
+msgid "Use on single car page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:450
+#: stm_vehicles_listing/includes/options.php:633
+msgid "Use on car filter"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:458
+#: stm_vehicles_listing/includes/options.php:641
+msgid "Use on car modern filter"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:466
+#: stm_vehicles_listing/includes/options.php:649
+msgid "Use images for this category"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:474
+msgid "Use on car filter as block with links"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:482
+#: stm_vehicles_listing/includes/options.php:665
+msgid "Listing inventory additional settings"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:484
+#: stm_vehicles_listing/includes/options.php:667
+msgid "Use this category in generated Listing Filter title"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:490
+#: stm_vehicles_listing/includes/options.php:672
+msgid ""
+"Enable this field, if you want to include category in Listing Filter title."
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:493
+#: stm_vehicles_listing/includes/options.php:675
+msgid "Number field affix (used on listing archive)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:499
+#: stm_vehicles_listing/includes/options.php:680
+msgid "This affix will be shown after number. Example: mi, pcs, etc."
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:502
+#: stm_vehicles_listing/includes/options.php:683
+msgid "Use on listing archive as checkboxes "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:504
+#: stm_vehicles_listing/includes/options.php:685
+msgid "Dont use"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:505
+#: stm_vehicles_listing/includes/options.php:686
+msgid "Use as 1 column per row"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:506
+#: stm_vehicles_listing/includes/options.php:687
+msgid "Use as 2 columns per row"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:509
+#: stm_vehicles_listing/includes/options.php:691
+msgid ""
+"Add submit button to this checkbox area (AJAX will be triggered after "
+"clicking on button)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:526
+#: stm_vehicles_listing/includes/options.php:707
+msgid "Choose icons from Font Awesome Pack"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:542
+#: stm_vehicles_listing/includes/options.php:723
+msgid "Choose icons from Motors Pack"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:561
+msgid "Save changes"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:562
+msgid "Close"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:571
+msgid "Singular name"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:578
+msgid "Plural name"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:590
+msgid "Caution, you will not be able to change the link later"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:598
+msgid ""
+"Numeric value will be compared in another way (useful for mileage or fuel "
+"economy)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:606
+msgid "Check if you want to see this category on single page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:609
+msgid "Use on car listing"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:614
+msgid ""
+"Check if you want to see this category on car listing page (machine card)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:617
+msgid "Use on car archive listing"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:622
+msgid ""
+"Check if you want to see this category on car listing archive page with icon"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:630
+msgid "Check if you want to see this category on single car page"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:638
+msgid "Check if you want to see this category in filter"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:646
+msgid "Check if you want to see this category in modern filter"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:654
+msgid "Check if you want to see this category with images"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:657
+msgid ""
+"Use on car filter as block with links (be aware of using both as filter "
+"option)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:662
+msgid "Check if you want to see this category in filter as links"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:689
+msgid "Use as checkboxes with images 1 or 2 columns"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:740
+msgid "Add new"
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:767
+msgid "Search "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:768
+msgid "Popular "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:769
+msgid "All "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:772
+msgid "Edit "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:773
+msgid "Update "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:774
+msgid "Add New "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:775
+msgid "New "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:776
+msgid "Separate "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:777
+msgid "Add or remove "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:778
+msgid "Choose from the most used "
+msgstr ""
+
+#: stm_vehicles_listing/includes/options.php:779
+msgid "No "
+msgstr ""
+
+#: stm_vehicles_listing/includes/xml-importer.php:6
+#: stm_vehicles_listing/includes/xml-importer.php:7
+#: stm_vehicles_listing/includes/xml-importer.php:87
+msgid "Import from XML"
+msgstr ""
+
+#: stm_vehicles_listing/includes/xml-importer.php:38
+msgid "Please, upload file with .xml format"
+msgstr ""
+
+#: stm_vehicles_listing/includes/xml-importer.php:92
+msgid "Load XML from your local files"
+msgstr ""
+
+#: stm_vehicles_listing/includes/xml-importer.php:255
+msgid "XML imported"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:155
+msgid "N/A"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:369
+msgid "Featured image downloaded."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:389
+msgid "Gallery downloaded and added."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:395
+msgid "updated."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:397
+msgid "added."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager-iframe.php:409
+msgid "Import done. Reload the page."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:6
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:7
+msgid "WebManager XML Import"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:40
+msgid "Title"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:45
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:86
+msgid "Content"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:50
+msgid "Status"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:61
+msgid "Gallery (All images except first)"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:66
+msgid "Stock Number"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:71
+msgid "VIN"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:76
+msgid "City MPG"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:81
+msgid "Highway MPG"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:87
+msgid "Buy for"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:91
+msgid "Regular price description"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:96
+msgid "Special price label"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:97
+msgid "Retail Price"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:101
+msgid "Instant savings label"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:102
+msgid "Instant Savings:"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:122
+msgid "How to Set Up WebManager XML Import:"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:125
+msgid "Log into"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:125
+msgid "WebManager"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:125
+msgid "but keep this page in a separate tab."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:126
+msgid "(Note: If you are not a WebManager subscriber"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:126
+msgid "click here"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:126
+msgid "for a free trial."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "On the top navigation bar, select"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "Settings"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "then"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "Website"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "and click"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:129
+msgid "Inventory Integration"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:135
+msgid "Under"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:135
+msgid "Inventory Feed Settings"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "add any"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "Security ID"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "check the"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "Enable Box"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "click"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:132
+msgid "at the bottom."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:135
+msgid "next to Example, select and copy the link."
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:138
+msgid "Return to this page, and under"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:138
+msgid "XML URL"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:138
+msgid "paste the copied link in the field and click"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:138
+msgid "Upload File"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:187
+msgid ""
+"Cronjob is active now, you can stop periodical import, by clicking Stop cron"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:192
+msgid "Stop Cron"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:196
+msgid ""
+"Cronjob is inactive now, you can resume periodical import, by clicking Start "
+"cron"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:201
+msgid "Start Cron"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:211
+msgid "Progress"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:221
+msgid "Specify link"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:228
+msgid "XML Url"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:236
+msgid "Upload file"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:259
+msgid "Note"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:260
+msgid "Title and Content are required fields"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:359
+msgid "Set up Template"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:364
+msgid "Template name:"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:367
+msgid "Run import every (Cron Job):"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:370
+msgid "Hourly"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:374
+msgid "Twice Daily"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:378
+msgid "Daily"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:383
+msgid "Run first import now?"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:400
+msgid "Back"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:404
+msgid "Save associations and continue"
+msgstr ""
+
+#: stm_vehicles_listing/includes/automanager/xml-importer-automanager.php:424
+msgid "Start import"
+msgstr ""

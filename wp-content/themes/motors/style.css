@@ -1,0 +1,117 @@
+/*
+	Theme Name: Motors
+	Theme URI: http://stylemixthemes.com/
+	Author: StylemixThemes
+	Author URI: http://stylemixthemes.com/
+	Description: Motors theme
+	Version: 2.3
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: blue, black, red, dark, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, editor-style, sticky-post, theme-options
+	Text Domain: motors
+*/
+
+/*In order to save fixes list, last update styles for car dealer
+will be added here, and in next update they will be moved in app.css*/
+
+/* Automanager styles */
+.main-menu .header-menu > li > ul > li > ul a {
+   line-height: 18px;
+}
+.stm_automanager_features_list .stm_automanager_single h3 {
+   font-size: 14px;
+   text-transform: uppercase;
+}
+
+.stm_automanager_features_list ul.list-style-2 li {
+   font-size: 14px;
+   line-height: 18px;
+   margin-bottom: 16px;
+}
+
+.automanager-listing-page .regular-price-with-sale {
+   font-size: 12px;
+   opacity: 0.8;
+}
+
+.automanager-listing-page .regular-price-with-sale strong {
+   display: block;
+   margin-top: -5px;
+   font-size: 24px;
+   line-height: 29px;
+}
+
+.car-action-unit.add-to-compare {
+   padding-right: 10px;
+   padding-left: 36px;
+   min-width: 158px;
+   white-space: nowrap;
+}
+
+.car-action-unit.stm-brochure {
+   min-width: 157px;
+   padding-left: 35px;
+}
+
+body.woocommerce-cart .entry-header,
+body.woocommerce-checkout .entry-header {
+   margin-bottom: 50px;
+}
+
+#top-bar .top-bar-wrapper {
+   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.single-regular-sale-price > table tr td:first-child {
+   border-right: 1px solid rgba(255,255,255,0.13);
+}
+
+#searchform .search-input {
+   padding: 0 75px 0 25px !important;
+}
+
+.stm-isotope-listing-item {
+   padding-bottom: 15px;
+}
+
+.listing-list-loop .content .meta-top {
+   margin-bottom: 16px;
+}
+
+.listing-list-loop .content .meta-middle {
+   margin-bottom: 19px;
+}
+
+.listing-list-loop .content .meta-middle .meta-middle-unit {
+   margin-bottom: 8px;
+}
+
+.stm-blog-fullwidth-info {
+   height: 580px;
+   overflow: hidden;
+}
+
+.car-listing-modern-grid img.lazy.img-responsive {
+   min-height: 134px;
+}
+
+#footer-copyright .footer-copyright:before {
+   background: rgba(255,255,255,0.2);
+}
+
+body .vc_row[data-vc-full-width] {
+   overflow: visible;
+}
+body .vc_row[data-vc-full-width].vc_parallax {
+   overflow: hidden;
+}
+
+#stm-fixed-cover {
+   background-size: cover;
+}
+
+.listing-list-loop .image .image-inner {min-height:170px;}
+
+.stm-single-car-history-image {
+ margin: 15px 0;
+}
